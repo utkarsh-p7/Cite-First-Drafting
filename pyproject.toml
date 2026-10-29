@@ -6,12 +6,14 @@ build-backend = "hatchling.build"
 name = "cite-first-drafting"
 version = "0.1.0"
 description = "Evidence-linked AI drafting for regulated financial reports. Every sentence carries its source."
+readme = "README.md"
+license = { file = "LICENSE" }
 authors = [{ name = "Utkarsh Pandey" }]
 requires-python = ">=3.11"
 keywords = ["generative-ai", "evidence-linking", "compliance", "fca", "suitability-report", "fastapi"]
 classifiers = [
   "Programming Language :: Python :: 3",
-  "License :: OSI Approved :: MIT License",
+  "License :: Other/Proprietary License",
   "Topic :: Office/Business :: Financial",
 ]
 # The core package (context assembly, parser, structural check, evaluation harness,
