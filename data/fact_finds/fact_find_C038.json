@@ -1,0 +1,55 @@
+{
+ "case_id": "C038",
+ "label_fictitious": true,
+ "schema_version": "1.0",
+ "generator_seed": 2350211739,
+ "condition": "clean",
+ "client": {
+  "name": "Tom Colville",
+  "age": 29,
+  "employment_status": "employed",
+  "dependants": 3,
+  "tax_band": "higher"
+ },
+ "objectives": {
+  "primary_objective": "invest an inheritance for growth",
+  "target_amount_gbp": 117000,
+  "horizon_years": 10,
+  "horizon_text": "around 10 years",
+  "atr_score": 4,
+  "atr_descriptor": "moderately_adventurous",
+  "risk_notes": null,
+  "missing_reason": null
+ },
+ "financial_situation": {
+  "gross_annual_income_gbp": 101100,
+  "income_source": "salary",
+  "monthly_essential_expenditure_gbp": 1850,
+  "monthly_discretionary_expenditure_gbp": 1350,
+  "assets": {
+   "cash_gbp": 9000,
+   "investments_gbp": 0,
+   "property_gbp": null
+  },
+  "liabilities_gbp": 0,
+  "emergency_fund_months": 4.9,
+  "capacity_for_loss": "medium",
+  "capacity_for_loss_basis": "stable income, adequate emergency fund, moderate surplus",
+  "isa_allowance_used_gbp": 0,
+  "missing_reason": null
+ },
+ "knowledge_experience": {
+  "products_held_before": [
+   "none"
+  ],
+  "trading_frequency": "sometimes",
+  "relevant_profession": false,
+  "ke_notes": null
+ },
+ "recommendation_context": {
+  "investable_amount_gbp": 34500,
+  "contribution_type": "lump_sum",
+  "recommended_wrapper": "ss_isa",
+  "adviser_rationale_notes": null
+ }
+}

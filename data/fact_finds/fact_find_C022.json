@@ -1,0 +1,57 @@
+{
+ "case_id": "C022",
+ "label_fictitious": true,
+ "schema_version": "1.0",
+ "generator_seed": 1859652104,
+ "condition": "clean",
+ "client": {
+  "name": "Fatima Whitfield",
+  "age": 37,
+  "employment_status": "employed",
+  "dependants": 2,
+  "tax_band": "basic"
+ },
+ "objectives": {
+  "primary_objective": "general wealth accumulation",
+  "target_amount_gbp": 40000,
+  "horizon_years": 5,
+  "horizon_text": "around 5 years",
+  "atr_score": 5,
+  "atr_descriptor": "adventurous",
+  "risk_notes": null,
+  "missing_reason": null
+ },
+ "financial_situation": {
+  "gross_annual_income_gbp": 37000,
+  "income_source": "salary",
+  "monthly_essential_expenditure_gbp": 1750,
+  "monthly_discretionary_expenditure_gbp": 750,
+  "assets": {
+   "cash_gbp": 14500,
+   "investments_gbp": 11500,
+   "property_gbp": null
+  },
+  "liabilities_gbp": 0,
+  "emergency_fund_months": 8.3,
+  "capacity_for_loss": "medium",
+  "capacity_for_loss_basis": "stable income, adequate emergency fund, moderate surplus",
+  "isa_allowance_used_gbp": 12500,
+  "missing_reason": null
+ },
+ "knowledge_experience": {
+  "products_held_before": [
+   "cash_savings",
+   "funds",
+   "shares"
+  ],
+  "trading_frequency": "sometimes",
+  "relevant_profession": true,
+  "ke_notes": null
+ },
+ "recommendation_context": {
+  "investable_amount_gbp": 18000,
+  "contribution_type": "regular_monthly",
+  "recommended_wrapper": "ss_isa",
+  "adviser_rationale_notes": null
+ }
+}

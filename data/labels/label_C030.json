@@ -1,0 +1,198 @@
+{
+ "case_id": "C030",
+ "label_fictitious": true,
+ "schema_version": "1.0",
+ "condition": "hard:missing_risk",
+ "facts": [
+  {
+   "fact_key": "client_identity",
+   "status": "supported",
+   "spans": [
+    "FF:C030:client.name",
+    "FF:C030:client.age"
+   ],
+   "value": {
+    "name": "Ivy Ferrant",
+    "age": 66
+   },
+   "conflict": null,
+   "detail": null
+  },
+  {
+   "fact_key": "investable_amount",
+   "status": "supported",
+   "spans": [
+    "FF:C030:recommendation_context.investable_amount_gbp",
+    "TR:C030:0002"
+   ],
+   "value": 29000,
+   "conflict": null,
+   "detail": null
+  },
+  {
+   "fact_key": "contribution_type",
+   "status": "supported",
+   "spans": [
+    "FF:C030:recommendation_context.contribution_type"
+   ],
+   "value": "both",
+   "conflict": null,
+   "detail": null
+  },
+  {
+   "fact_key": "recommended_wrapper",
+   "status": "supported",
+   "spans": [
+    "FF:C030:recommendation_context.recommended_wrapper"
+   ],
+   "value": "ss_isa",
+   "conflict": null,
+   "detail": null
+  },
+  {
+   "fact_key": "primary_objective",
+   "status": "supported",
+   "spans": [
+    "FF:C030:objectives.primary_objective",
+    "TR:C030:0002"
+   ],
+   "value": "general wealth accumulation",
+   "conflict": null,
+   "detail": null
+  },
+  {
+   "fact_key": "investment_horizon",
+   "status": "supported",
+   "spans": [
+    "FF:C030:objectives.horizon_years",
+    "TR:C030:0004"
+   ],
+   "value": 5,
+   "conflict": null,
+   "detail": null
+  },
+  {
+   "fact_key": "risk_tolerance_atr",
+   "status": "missing",
+   "spans": [
+    "FF:C030:objectives.atr_score",
+    "TR:C030:0006"
+   ],
+   "value": null,
+   "conflict": null,
+   "detail": "declined"
+  },
+  {
+   "fact_key": "capacity_for_loss",
+   "status": "supported",
+   "spans": [
+    "FF:C030:financial_situation.capacity_for_loss",
+    "TR:C030:0009"
+   ],
+   "value": "high",
+   "conflict": null,
+   "detail": null
+  },
+  {
+   "fact_key": "income",
+   "status": "supported",
+   "spans": [
+    "FF:C030:financial_situation.gross_annual_income_gbp",
+    "TR:C030:0012",
+    "TR:C030:0013"
+   ],
+   "value": 119800,
+   "conflict": null,
+   "detail": null
+  },
+  {
+   "fact_key": "essential_expenditure",
+   "status": "supported",
+   "spans": [
+    "FF:C030:financial_situation.monthly_essential_expenditure_gbp",
+    "TR:C030:0012",
+    "TR:C030:0013"
+   ],
+   "value": 3300,
+   "conflict": null,
+   "detail": null
+  },
+  {
+   "fact_key": "emergency_fund",
+   "status": "supported",
+   "spans": [
+    "FF:C030:financial_situation.emergency_fund_months"
+   ],
+   "value": 17.4,
+   "conflict": null,
+   "detail": null
+  },
+  {
+   "fact_key": "liabilities",
+   "status": "supported",
+   "spans": [
+    "FF:C030:financial_situation.liabilities_gbp"
+   ],
+   "value": 0,
+   "conflict": null,
+   "detail": null
+  },
+  {
+   "fact_key": "knowledge_experience",
+   "status": "supported",
+   "spans": [
+    "FF:C030:knowledge_experience.products_held_before",
+    "FF:C030:knowledge_experience.trading_frequency",
+    "TR:C030:0011"
+   ],
+   "value": {
+    "products": [
+     "cash_savings"
+    ],
+    "frequency": "sometimes"
+   },
+   "conflict": null,
+   "detail": null
+  },
+  {
+   "fact_key": "isa_allowance_used",
+   "status": "supported",
+   "spans": [
+    "FF:C030:financial_situation.isa_allowance_used_gbp"
+   ],
+   "value": 0,
+   "conflict": null,
+   "detail": null
+  },
+  {
+   "fact_key": "product_key_risks",
+   "status": "supported",
+   "spans": [
+    "FS:ISA:03"
+   ],
+   "value": "ISA key risks per factsheet \u00a703",
+   "conflict": null,
+   "detail": null
+  },
+  {
+   "fact_key": "product_charges",
+   "status": "supported",
+   "spans": [
+    "FS:ISA:04"
+   ],
+   "value": "ISA charges per factsheet \u00a704",
+   "conflict": null,
+   "detail": null
+  },
+  {
+   "fact_key": "product_tax_treatment",
+   "status": "supported",
+   "spans": [
+    "FS:ISA:05"
+   ],
+   "value": "ISA tax treatment per factsheet \u00a705",
+   "conflict": null,
+   "detail": null
+  }
+ ]
+}

@@ -1,0 +1,406 @@
+[
+ {
+  "statement_id": "C031-S001",
+  "text": "We recommend that you invest the £30,000 you have available as a lump‑sum into a balanced multi‑asset fund (the Aldercroft Balanced Growth Fund) using **both** a Stocks & Shares ISA wrapper and an unwrapped General Investment Account (GIA) [FF:C031:recommendation_context.recommended_wrapper][FF:C031:recommendation_context.investable_amount_gbp].",
+  "spans": [
+   {
+    "span_id": "FF:C031:recommendation_context.recommended_wrapper",
+    "span_valid": true
+   },
+   {
+    "span_id": "FF:C031:recommendation_context.investable_amount_gbp",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C031-S002",
+  "text": "- **Primary objective:** to supplement your retirement savings outside of a pension [FF:C031:objectives.primary_objective].",
+  "spans": [
+   {
+    "span_id": "FF:C031:objectives.primary_objective",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C031-S003",
+  "text": "- **Investment horizon:** around three years [FF:C031:objectives.horizon_text].",
+  "spans": [
+   {
+    "span_id": "FF:C031:objectives.horizon_text",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C031-S004",
+  "text": "- **Age:** 65 [FF:C031:client.age].",
+  "spans": [
+   {
+    "span_id": "FF:C031:client.age",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C031-S005",
+  "text": "- **Employment status:** not working [FF:C031:client.employment_status].",
+  "spans": [
+   {
+    "span_id": "FF:C031:client.employment_status",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C031-S006",
+  "text": "- **Income:** £87,500 gross per year from salary [FF:C031:financial_situation.gross_annual_income_gbp].",
+  "spans": [
+   {
+    "span_id": "FF:C031:financial_situation.gross_annual_income_gbp",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C031-S007",
+  "text": "- **Monthly essential outgoings:** £1,800 [FF:C031:financial_situation.monthly_essential_expenditure_gbp].",
+  "spans": [
+   {
+    "span_id": "FF:C031:financial_situation.monthly_essential_expenditure_gbp",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C031-S008",
+  "text": "- **Monthly discretionary outgoings:** £1,250 [FF:C031:financial_situation.monthly_discretionary_expenditure_gbp].",
+  "spans": [
+   {
+    "span_id": "FF:C031:financial_situation.monthly_discretionary_expenditure_gbp",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C031-S009",
+  "text": "- **Liquid assets:** £44,500 cash [FF:C031:financial_situation.assets.cash_gbp] and £18,500 existing investments [FF:C031:financial_situation.assets.investments_gbp].",
+  "spans": [
+   {
+    "span_id": "FF:C031:financial_situation.assets.cash_gbp",
+    "span_valid": true
+   },
+   {
+    "span_id": "FF:C031:financial_situation.assets.investments_gbp",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C031-S010",
+  "text": "- **Liabilities:** £6,000 [FF:C031:financial_situation.liabilities_gbp].",
+  "spans": [
+   {
+    "span_id": "FF:C031:financial_situation.liabilities_gbp",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C031-S011",
+  "text": "- **Emergency fund:** sufficient for 24.7 months of expenses [FF:C031:financial_situation.emergency_fund_months].",
+  "spans": [
+   {
+    "span_id": "FF:C031:financial_situation.emergency_fund_months",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C031-S012",
+  "text": "- **Capacity for loss:** high, based on substantial liquid assets and high disposable income [FF:C031:financial_situation.capacity_for_loss][FF:C031:financial_situation.capacity_for_loss_basis].",
+  "spans": [
+   {
+    "span_id": "FF:C031:financial_situation.capacity_for_loss",
+    "span_valid": true
+   },
+   {
+    "span_id": "FF:C031:financial_situation.capacity_for_loss_basis",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C031-S013",
+  "text": "- **Attitude to risk (ATR):** cautious (score 1) [FF:C031:objectives.atr_score][FF:C031:objectives.atr_descriptor].",
+  "spans": [
+   {
+    "span_id": "FF:C031:objectives.atr_score",
+    "span_valid": true
+   },
+   {
+    "span_id": "FF:C031:objectives.atr_descriptor",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C031-S014",
+  "text": "- **Knowledge & experience:** you have held no investment products before and trade only rarely [FF:C031:knowledge_experience.products_held_before][FF:C031:knowledge_experience.trading_frequency].",
+  "spans": [
+   {
+    "span_id": "FF:C031:knowledge_experience.products_held_before",
+    "span_valid": true
+   },
+   {
+    "span_id": "FF:C031:knowledge_experience.trading_frequency",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C031-S015",
+  "text": "The recommended fund aims for capital growth over a medium‑term horizon (5 + years) and is diversified across global equities and bonds [FS:ISA:01][FS:ISA:02].",
+  "spans": [
+   {
+    "span_id": "FS:ISA:01",
+    "span_valid": true
+   },
+   {
+    "span_id": "FS:ISA:02",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C031-S016",
+  "text": "Although the fund’s risk indicator is 4 / 7, the use of an ISA wrapper provides tax‑free growth, which aligns with your desire to supplement retirement savings [FS:ISA:05].",
+  "spans": [
+   {
+    "span_id": "FS:ISA:05",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C031-S017",
+  "text": "The GIA option offers flexibility and no tax‑sheltered status, giving you the ability to withdraw before the recommended 5‑year holding period if needed [FS:GIA:06].",
+  "spans": [
+   {
+    "span_id": "FS:GIA:06",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C031-S018",
+  "text": "By splitting the investment between the ISA (tax‑efficient) and the GIA (flexible), you can balance the need for tax advantages with the possibility of early access, matching your cautious risk attitude while still reflecting your high capacity for loss.",
+  "spans": [],
+  "status": "unsupported"
+ },
+ {
+  "statement_id": "C031-S019",
+  "text": "- **Market risk:** the fund’s value can fall below the amount invested, and there is no capital guarantee [FS:ISA:03][FS:GIA:03].",
+  "spans": [
+   {
+    "span_id": "FS:ISA:03",
+    "span_valid": true
+   },
+   {
+    "span_id": "FS:GIA:03",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C031-S020",
+  "text": "- **Currency risk:** exposure to non‑GBP holdings may cause additional volatility [FS:ISA:03].",
+  "spans": [
+   {
+    "span_id": "FS:ISA:03",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C031-S021",
+  "text": "- **Risk indicator mismatch:** the fund’s risk rating (4 / 7) is higher than your cautious ATR score of 1, meaning the investment may feel uncomfortable during market downturns [FF:C031:objectives.atr_score][FS:ISA:03].",
+  "spans": [
+   {
+    "span_id": "FF:C031:objectives.atr_score",
+    "span_valid": true
+   },
+   {
+    "span_id": "FS:ISA:03",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C031-S022",
+  "text": "- **Holding period:** the product literature recommends a minimum holding period of five years, which exceeds your stated three‑year horizon [FS:ISA:03].",
+  "spans": [
+   {
+    "span_id": "FS:ISA:03",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C031-S023",
+  "text": "- **Charges:** total annual cost of approximately 0.85 % (platform fee 0.25 % + fund OCF 0.60 %) will reduce net returns [FS:ISA:04][FS:GIA:04].",
+  "spans": [
+   {
+    "span_id": "FS:ISA:04",
+    "span_valid": true
+   },
+   {
+    "span_id": "FS:GIA:04",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C031-S024",
+  "text": "- **ISA withdrawal limits:** amounts withdrawn from the ISA cannot be replaced within the same tax year without using your annual ISA allowance [FS:ISA:06].",
+  "spans": [
+   {
+    "span_id": "FS:ISA:06",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C031-S025",
+  "text": "ADVISER FLAG: Conflict between client’s cautious attitude to risk (ATR score 1) and high capacity for loss [FF:C031:objectives.atr_score][FF:C031:financial_situation.capacity_for_loss]",
+  "spans": [
+   {
+    "span_id": "FF:C031:objectives.atr_score",
+    "span_valid": true
+   },
+   {
+    "span_id": "FF:C031:financial_situation.capacity_for_loss",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C031-S026",
+  "text": "- **Platform fee:** 0.25 % per annum [FS:ISA:04].",
+  "spans": [
+   {
+    "span_id": "FS:ISA:04",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C031-S027",
+  "text": "- **Fund ongoing charge (OCF):** 0.60 % per annum [FS:ISA:04].",
+  "spans": [
+   {
+    "span_id": "FS:ISA:04",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C031-S028",
+  "text": "- **Total illustrative annual cost:** 0.85 % of the investment amount [FS:ISA:04].",
+  "spans": [
+   {
+    "span_id": "FS:ISA:04",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C031-S029",
+  "text": "- No entry, exit, or performance fees apply [FS:ISA:04].",
+  "spans": [
+   {
+    "span_id": "FS:ISA:04",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C031-S030",
+  "text": "- The same charge structure applies to the GIA [FS:GIA:04].",
+  "spans": [
+   {
+    "span_id": "FS:GIA:04",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C031-S031",
+  "text": "Given the mismatch between the fund’s recommended five‑year holding period and your three‑year horizon, as well as the higher risk rating relative to your cautious attitude, a periodic review is likely to be needed to ensure the investment remains appropriate for your circumstances [INSUFFICIENT EVIDENCE: specific review frequency].",
+  "spans": [],
+  "status": "insufficient"
+ },
+ {
+  "statement_id": "C031-S032",
+  "text": "This suitability report is provided to you **before any transaction is concluded** and is delivered in a durable medium, as required by MiFID regulations [KB:COBS_9A_3:02_what_the_report_must_contain_do_paraphra].",
+  "spans": [
+   {
+    "span_id": "KB:COBS_9A_3:02_what_the_report_must_contain_do_paraphra",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C031-S033",
+  "text": "- Target amount you wish to achieve (currently not specified) [FF:C031:objectives.target_amount_gbp]",
+  "spans": [
+   {
+    "span_id": "FF:C031:objectives.target_amount_gbp",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C031-S034",
+  "text": "- Any specific risk notes or additional constraints you may have [FF:C031:objectives.risk_notes]",
+  "spans": [
+   {
+    "span_id": "FF:C031:objectives.risk_notes",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ }
+]

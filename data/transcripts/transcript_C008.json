@@ -1,0 +1,106 @@
+{
+ "case_id": "C008",
+ "label_fictitious": true,
+ "schema_version": "1.0",
+ "meeting_date_fictitious": "2026-04-22",
+ "segments": [
+  {
+   "utt_id": "TR:C008:0001",
+   "speaker": "ADVISER",
+   "start_s": 0.0,
+   "end_s": 6.8,
+   "text": "Thanks for coming in. To start, what are you hoping to achieve with this money?"
+  },
+  {
+   "utt_id": "TR:C008:0002",
+   "speaker": "CLIENT",
+   "start_s": 7.3,
+   "end_s": 13.6,
+   "text": "Mainly to supplement retirement savings outside pension. I've got about \u00a325,500 to put in."
+  },
+  {
+   "utt_id": "TR:C008:0003",
+   "speaker": "ADVISER",
+   "start_s": 14.3,
+   "end_s": 18.3,
+   "text": "And what sort of timeframe are you working to?"
+  },
+  {
+   "utt_id": "TR:C008:0004",
+   "speaker": "CLIENT",
+   "start_s": 18.9,
+   "end_s": 21.4,
+   "text": "I'd say around 10 years."
+  },
+  {
+   "utt_id": "TR:C008:0005",
+   "speaker": "ADVISER",
+   "start_s": 21.8,
+   "end_s": 27.7,
+   "text": "How would you feel if the value fell noticeably in a bad year?"
+  },
+  {
+   "utt_id": "TR:C008:0006",
+   "speaker": "CLIENT",
+   "start_s": 28.1,
+   "end_s": 30.6,
+   "text": "I'm comfortable with meaningful swings."
+  },
+  {
+   "utt_id": "TR:C008:0007",
+   "speaker": "ADVISER",
+   "start_s": 31.3,
+   "end_s": 38.1,
+   "text": "If you did lose some of this money, how would it affect your day-to-day finances?"
+  },
+  {
+   "utt_id": "TR:C008:0008",
+   "speaker": "CLIENT",
+   "start_s": 38.5,
+   "end_s": 42.1,
+   "text": "I honestly haven't thought about it. Not sure."
+  },
+  {
+   "utt_id": "TR:C008:0009",
+   "speaker": "ADVISER",
+   "start_s": 43.0,
+   "end_s": 46.6,
+   "text": "Understood \u2014 something for us to firm up."
+  },
+  {
+   "utt_id": "TR:C008:0010",
+   "speaker": "ADVISER",
+   "start_s": 47.8,
+   "end_s": 51.4,
+   "text": "Have you invested before, or mostly cash savings?"
+  },
+  {
+   "utt_id": "TR:C008:0011",
+   "speaker": "CLIENT",
+   "start_s": 51.7,
+   "end_s": 54.9,
+   "text": "Mostly cash savings, pension; I trade rarely."
+  },
+  {
+   "utt_id": "TR:C008:0012",
+   "speaker": "ADVISER",
+   "start_s": 55.9,
+   "end_s": 63.1,
+   "text": "Income and outgoings \u2014 roughly \u00a340,400 a year and \u00a32,650 essential monthly costs, is that right?"
+  },
+  {
+   "utt_id": "TR:C008:0013",
+   "speaker": "CLIENT",
+   "start_s": 64.3,
+   "end_s": 66.8,
+   "text": "Yes, that's about right."
+  },
+  {
+   "utt_id": "TR:C008:0014",
+   "speaker": "ADVISER",
+   "start_s": 67.4,
+   "end_s": 73.7,
+   "text": "Thanks. I'll review this and set out my recommendation in writing before anything proceeds."
+  }
+ ]
+}

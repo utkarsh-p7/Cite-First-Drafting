@@ -1,0 +1,311 @@
+[
+ {
+  "statement_id": "C039-S001",
+  "text": "We recommend that you invest the £16,500 you have available as a lump‑sum into a General Investment Account (GIA) holding the Aldercroft Balanced Growth Fund.",
+  "spans": [],
+  "status": "unsupported"
+ },
+ {
+  "statement_id": "C039-S002",
+  "text": "This recommendation is based on the information you provided and the discussion we had during our meeting[FF:C039:recommendation_context.recommended_wrapper][FF:C039:recommendation_context.investable_amount_gbp].",
+  "spans": [
+   {
+    "span_id": "FF:C039:recommendation_context.recommended_wrapper",
+    "span_valid": true
+   },
+   {
+    "span_id": "FF:C039:recommendation_context.investable_amount_gbp",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C039-S003",
+  "text": "- **Primary objective:** Grow your long‑term savings beyond cash[FF:C039:objectives.primary_objective].",
+  "spans": [
+   {
+    "span_id": "FF:C039:objectives.primary_objective",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C039-S004",
+  "text": "- **Investment horizon:** Around 5 years[FF:C039:objectives.horizon_text].",
+  "spans": [
+   {
+    "span_id": "FF:C039:objectives.horizon_text",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C039-S005",
+  "text": "- **Age and employment:** You are 51 years old and currently employed[FF:C039:client.age][FF:C039:client.employment_status].",
+  "spans": [
+   {
+    "span_id": "FF:C039:client.age",
+    "span_valid": true
+   },
+   {
+    "span_id": "FF:C039:client.employment_status",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C039-S006",
+  "text": "- **Financial situation:** Gross annual income £45,200, essential monthly expenditure £2,700 and discretionary spending £100, giving you a stable surplus[FF:C039:financial_situation.gross_annual_income_gbp][FF:C039:financial_situation.monthly_essential_expenditure_gbp][FF:C039:financial_situation.monthly_discretionary_expenditure_gbp].",
+  "spans": [
+   {
+    "span_id": "FF:C039:financial_situation.gross_annual_income_gbp",
+    "span_valid": true
+   },
+   {
+    "span_id": "FF:C039:financial_situation.monthly_essential_expenditure_gbp",
+    "span_valid": true
+   },
+   {
+    "span_id": "FF:C039:financial_situation.monthly_discretionary_expenditure_gbp",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C039-S007",
+  "text": "- **Assets and liabilities:** Cash savings of £16,500, no other investments or liabilities, and an emergency fund covering about 6.1 months of expenses[FF:C039:financial_situation.assets.cash_gbp][FF:C039:financial_situation.liabilities_gbp][FF:C039:financial_situation.emergency_fund_months].",
+  "spans": [
+   {
+    "span_id": "FF:C039:financial_situation.assets.cash_gbp",
+    "span_valid": true
+   },
+   {
+    "span_id": "FF:C039:financial_situation.liabilities_gbp",
+    "span_valid": true
+   },
+   {
+    "span_id": "FF:C039:financial_situation.emergency_fund_months",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C039-S008",
+  "text": "- **Capacity for loss:** Medium, based on your stable income, adequate emergency fund and moderate surplus[FF:C039:financial_situation.capacity_for_loss][FF:C039:financial_situation.capacity_for_loss_basis].",
+  "spans": [
+   {
+    "span_id": "FF:C039:financial_situation.capacity_for_loss",
+    "span_valid": true
+   },
+   {
+    "span_id": "FF:C039:financial_situation.capacity_for_loss_basis",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C039-S009",
+  "text": "- **Knowledge & experience:** You have previously held cash savings and a pension, and you trade “sometimes”[FF:C039:knowledge_experience.products_held_before][FF:C039:knowledge_experience.trading_frequency].",
+  "spans": [
+   {
+    "span_id": "FF:C039:knowledge_experience.products_held_before",
+    "span_valid": true
+   },
+   {
+    "span_id": "FF:C039:knowledge_experience.trading_frequency",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C039-S010",
+  "text": "The Aldercroft Balanced Growth Fund is a multi‑asset fund (approximately 60 % global equities, 40 % bonds) that aims for capital growth over a period of 5 + years, matching your 5‑year horizon[FS:GIA:01][FS:GIA:02].",
+  "spans": [
+   {
+    "span_id": "FS:GIA:01",
+    "span_valid": true
+   },
+   {
+    "span_id": "FS:GIA:02",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C039-S011",
+  "text": "Your attitude to risk is recorded as “moderately cautious” (ATR score 2)[FF:C039:objectives.atr_descriptor], and the fund’s risk indicator is 4 of 7, which sits within a moderate risk band and is consistent with a medium capacity for loss[FS:GIA:03].",
+  "spans": [
+   {
+    "span_id": "FF:C039:objectives.atr_descriptor",
+    "span_valid": true
+   },
+   {
+    "span_id": "FS:GIA:03",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C039-S012",
+  "text": "The product has no entry, exit or performance fees and a total illustrative charge of 0.85 % per annum, which is reasonable for a diversified multi‑asset fund[FS:GIA:04].",
+  "spans": [
+   {
+    "span_id": "FS:GIA:04",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C039-S013",
+  "text": "The GIA is unwrapped, meaning it is not tax‑sheltered; any dividends and gains will be taxed in line with your basic‑rate tax position, which you are already aware of[FS:GIA:05].",
+  "spans": [
+   {
+    "span_id": "FS:GIA:05",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C039-S014",
+  "text": "The minimum investment requirement (£1,000 lump sum) is well below your available £16,500, and daily dealing with withdrawals available within five business days gives you the liquidity you need[FS:GIA:07][FS:GIA:06].",
+  "spans": [
+   {
+    "span_id": "FS:GIA:07",
+    "span_valid": true
+   },
+   {
+    "span_id": "FS:GIA:06",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C039-S015",
+  "text": "- **Market risk:** The fund’s value can fall below the amount you invest, and there is no capital guarantee[FS:GIA:03].",
+  "spans": [
+   {
+    "span_id": "FS:GIA:03",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C039-S016",
+  "text": "- **Currency risk:** Non‑GBP holdings expose you to fluctuations in foreign exchange rates[FS:GIA:03].",
+  "spans": [
+   {
+    "span_id": "FS:GIA:03",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C039-S017",
+  "text": "- **Risk level:** With a risk indicator of 4/7, the fund may experience noticeable volatility, which could be uncomfortable if the value falls in a bad year[FS:GIA:03].",
+  "spans": [
+   {
+    "span_id": "FS:GIA:03",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C039-S018",
+  "text": "- **Tax treatment:** As the GIA is not tax‑sheltered, dividends and capital gains may be subject to tax above the personal allowances[FS:GIA:05].",
+  "spans": [
+   {
+    "span_id": "FS:GIA:05",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C039-S019",
+  "text": "ADVISER FLAG: Conflict between recorded attitude to risk (moderately cautious) and client’s expressed willingness to be “quite aggressive” in a bad year[FF:C039:objectives.atr_score][TR:C039:0006]",
+  "spans": [
+   {
+    "span_id": "FF:C039:objectives.atr_score",
+    "span_valid": true
+   },
+   {
+    "span_id": "TR:C039:0006",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C039-S020",
+  "text": "- Platform fee: 0.25 % per annum.",
+  "spans": [],
+  "status": "unsupported"
+ },
+ {
+  "statement_id": "C039-S021",
+  "text": "- Fund ongoing charge (OCF): 0.60 % per annum.",
+  "spans": [],
+  "status": "unsupported"
+ },
+ {
+  "statement_id": "C039-S022",
+  "text": "- No entry, exit or performance fees.",
+  "spans": [],
+  "status": "unsupported"
+ },
+ {
+  "statement_id": "C039-S023",
+  "text": "- Illustrative total annual cost: 0.85 %[FS:GIA:04].",
+  "spans": [
+   {
+    "span_id": "FS:GIA:04",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C039-S024",
+  "text": "Given your 5‑year investment horizon and the medium capacity for loss, a periodic review (at least annually) is likely to be needed to ensure the investment remains appropriate as your circumstances or market conditions change[KB:COBS_9A_3:02_what_the_report_must_contain_do_paraphra].",
+  "spans": [
+   {
+    "span_id": "KB:COBS_9A_3:02_what_the_report_must_contain_do_paraphra",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C039-S025",
+  "text": "This suitability report is provided to you before any transaction is concluded, in a durable medium, and sets out the advice we are giving, why it is suitable, the associated risks, costs and the need for ongoing review[KB:COBS_9A_3:02_what_the_report_must_contain_do_paraphra].",
+  "spans": [
+   {
+    "span_id": "KB:COBS_9A_3:02_what_the_report_must_contain_do_paraphra",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C039-S026",
+  "text": "None identified.",
+  "spans": [],
+  "status": "unsupported"
+ }
+]

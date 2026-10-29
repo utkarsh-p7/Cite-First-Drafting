@@ -1,0 +1,231 @@
+{
+ "case_id": "C031",
+ "label_fictitious": true,
+ "schema_version": "1.0",
+ "condition": "clean",
+ "facts": [
+  {
+   "fact_key": "client_identity",
+   "status": "supported",
+   "spans": [
+    "FF:C031:client.name",
+    "FF:C031:client.age"
+   ],
+   "value": {
+    "name": "Callum Marsh",
+    "age": 65
+   },
+   "conflict": null,
+   "detail": null
+  },
+  {
+   "fact_key": "investable_amount",
+   "status": "supported",
+   "spans": [
+    "FF:C031:recommendation_context.investable_amount_gbp",
+    "TR:C031:0002"
+   ],
+   "value": 30000,
+   "conflict": null,
+   "detail": null
+  },
+  {
+   "fact_key": "contribution_type",
+   "status": "supported",
+   "spans": [
+    "FF:C031:recommendation_context.contribution_type"
+   ],
+   "value": "lump_sum",
+   "conflict": null,
+   "detail": null
+  },
+  {
+   "fact_key": "recommended_wrapper",
+   "status": "supported",
+   "spans": [
+    "FF:C031:recommendation_context.recommended_wrapper"
+   ],
+   "value": "both",
+   "conflict": null,
+   "detail": null
+  },
+  {
+   "fact_key": "primary_objective",
+   "status": "supported",
+   "spans": [
+    "FF:C031:objectives.primary_objective",
+    "TR:C031:0002"
+   ],
+   "value": "supplement retirement savings outside pension",
+   "conflict": null,
+   "detail": null
+  },
+  {
+   "fact_key": "investment_horizon",
+   "status": "supported",
+   "spans": [
+    "FF:C031:objectives.horizon_years",
+    "TR:C031:0004"
+   ],
+   "value": 3,
+   "conflict": null,
+   "detail": null
+  },
+  {
+   "fact_key": "risk_tolerance_atr",
+   "status": "supported",
+   "spans": [
+    "FF:C031:objectives.atr_score",
+    "TR:C031:0006"
+   ],
+   "value": {
+    "score": 1,
+    "descriptor": "cautious"
+   },
+   "conflict": null,
+   "detail": null
+  },
+  {
+   "fact_key": "capacity_for_loss",
+   "status": "supported",
+   "spans": [
+    "FF:C031:financial_situation.capacity_for_loss",
+    "TR:C031:0008"
+   ],
+   "value": "high",
+   "conflict": null,
+   "detail": null
+  },
+  {
+   "fact_key": "income",
+   "status": "supported",
+   "spans": [
+    "FF:C031:financial_situation.gross_annual_income_gbp",
+    "TR:C031:0011",
+    "TR:C031:0012"
+   ],
+   "value": 87500,
+   "conflict": null,
+   "detail": null
+  },
+  {
+   "fact_key": "essential_expenditure",
+   "status": "supported",
+   "spans": [
+    "FF:C031:financial_situation.monthly_essential_expenditure_gbp",
+    "TR:C031:0011",
+    "TR:C031:0012"
+   ],
+   "value": 1800,
+   "conflict": null,
+   "detail": null
+  },
+  {
+   "fact_key": "emergency_fund",
+   "status": "supported",
+   "spans": [
+    "FF:C031:financial_situation.emergency_fund_months"
+   ],
+   "value": 24.7,
+   "conflict": null,
+   "detail": null
+  },
+  {
+   "fact_key": "liabilities",
+   "status": "supported",
+   "spans": [
+    "FF:C031:financial_situation.liabilities_gbp"
+   ],
+   "value": 6000,
+   "conflict": null,
+   "detail": null
+  },
+  {
+   "fact_key": "knowledge_experience",
+   "status": "supported",
+   "spans": [
+    "FF:C031:knowledge_experience.products_held_before",
+    "FF:C031:knowledge_experience.trading_frequency",
+    "TR:C031:0010"
+   ],
+   "value": {
+    "products": [
+     "none"
+    ],
+    "frequency": "rarely"
+   },
+   "conflict": null,
+   "detail": null
+  },
+  {
+   "fact_key": "isa_allowance_used",
+   "status": "supported",
+   "spans": [
+    "FF:C031:financial_situation.isa_allowance_used_gbp"
+   ],
+   "value": 12000,
+   "conflict": null,
+   "detail": null
+  },
+  {
+   "fact_key": "product_key_risks",
+   "status": "supported",
+   "spans": [
+    "FS:ISA:03"
+   ],
+   "value": "ISA key risks per factsheet \u00a703",
+   "conflict": null,
+   "detail": null
+  },
+  {
+   "fact_key": "product_charges",
+   "status": "supported",
+   "spans": [
+    "FS:ISA:04"
+   ],
+   "value": "ISA charges per factsheet \u00a704",
+   "conflict": null,
+   "detail": null
+  },
+  {
+   "fact_key": "product_tax_treatment",
+   "status": "supported",
+   "spans": [
+    "FS:ISA:05"
+   ],
+   "value": "ISA tax treatment per factsheet \u00a705",
+   "conflict": null,
+   "detail": null
+  },
+  {
+   "fact_key": "product_key_risks",
+   "status": "supported",
+   "spans": [
+    "FS:GIA:03"
+   ],
+   "value": "GIA key risks per factsheet \u00a703",
+   "conflict": null,
+   "detail": null
+  },
+  {
+   "fact_key": "product_charges",
+   "status": "supported",
+   "spans": [
+    "FS:GIA:04"
+   ],
+   "value": "GIA charges per factsheet \u00a704",
+   "conflict": null,
+   "detail": null
+  },
+  {
+   "fact_key": "product_tax_treatment",
+   "status": "supported",
+   "spans": [
+    "FS:GIA:05"
+   ],
+   "value": "GIA tax treatment per factsheet \u00a705",
+   "conflict": null,
+   "detail": null
+  }
+ ]
+}

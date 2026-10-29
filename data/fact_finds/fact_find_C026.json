@@ -1,0 +1,56 @@
+{
+ "case_id": "C026",
+ "label_fictitious": true,
+ "schema_version": "1.0",
+ "generator_seed": 1897552397,
+ "condition": "clean",
+ "client": {
+  "name": "Amara Trent",
+  "age": 54,
+  "employment_status": "employed",
+  "dependants": 0,
+  "tax_band": "basic"
+ },
+ "objectives": {
+  "primary_objective": "build a fund for a career break",
+  "target_amount_gbp": 32000,
+  "horizon_years": 5,
+  "horizon_text": "around 5 years",
+  "atr_score": 1,
+  "atr_descriptor": "cautious",
+  "risk_notes": null,
+  "missing_reason": null
+ },
+ "financial_situation": {
+  "gross_annual_income_gbp": 27800,
+  "income_source": "salary",
+  "monthly_essential_expenditure_gbp": 1750,
+  "monthly_discretionary_expenditure_gbp": 800,
+  "assets": {
+   "cash_gbp": 14000,
+   "investments_gbp": 0,
+   "property_gbp": null
+  },
+  "liabilities_gbp": 4500,
+  "emergency_fund_months": 8.0,
+  "capacity_for_loss": "medium",
+  "capacity_for_loss_basis": "stable income, adequate emergency fund, moderate surplus",
+  "isa_allowance_used_gbp": 0,
+  "missing_reason": null
+ },
+ "knowledge_experience": {
+  "products_held_before": [
+   "cash_savings",
+   "pension"
+  ],
+  "trading_frequency": "rarely",
+  "relevant_profession": false,
+  "ke_notes": null
+ },
+ "recommendation_context": {
+  "investable_amount_gbp": 36000,
+  "contribution_type": "lump_sum",
+  "recommended_wrapper": "ss_isa",
+  "adviser_rationale_notes": null
+ }
+}

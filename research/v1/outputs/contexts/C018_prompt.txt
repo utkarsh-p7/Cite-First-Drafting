@@ -1,0 +1,111 @@
+# CASE C018 — SOURCE EVIDENCE (all data FICTITIOUS/synthetic)
+Recommended wrapper: both
+
+## FACT-FIND (cite as the FF: span-ID shown)
+[FF:C018:client.name] = "Ella Trent"
+[FF:C018:client.age] = 51
+[FF:C018:client.employment_status] = "self_employed"
+[FF:C018:client.dependants] = 0
+[FF:C018:client.tax_band] = "additional"
+[FF:C018:objectives.primary_objective] = "save for children's university costs"
+[FF:C018:objectives.target_amount_gbp] = null
+[FF:C018:objectives.horizon_years] = 5
+[FF:C018:objectives.horizon_text] = "around 5 years"
+[FF:C018:objectives.atr_score] = 4
+[FF:C018:objectives.atr_descriptor] = "moderately_adventurous"
+[FF:C018:objectives.risk_notes] = null
+[FF:C018:objectives.missing_reason] = null
+[FF:C018:financial_situation.gross_annual_income_gbp] = 176400
+[FF:C018:financial_situation.income_source] = "salary"
+[FF:C018:financial_situation.monthly_essential_expenditure_gbp] = 3350
+[FF:C018:financial_situation.monthly_discretionary_expenditure_gbp] = 950
+[FF:C018:financial_situation.assets.cash_gbp] = 59000
+[FF:C018:financial_situation.assets.investments_gbp] = 0
+[FF:C018:financial_situation.assets.property_gbp] = null
+[FF:C018:financial_situation.liabilities_gbp] = 0
+[FF:C018:financial_situation.emergency_fund_months] = 17.6
+[FF:C018:financial_situation.capacity_for_loss] = "high"
+[FF:C018:financial_situation.capacity_for_loss_basis] = "substantial liquid assets and high disposable income relative to commitments"
+[FF:C018:financial_situation.isa_allowance_used_gbp] = 0
+[FF:C018:financial_situation.missing_reason] = null
+[FF:C018:knowledge_experience.products_held_before] = ["cash_savings"]
+[FF:C018:knowledge_experience.trading_frequency] = "sometimes"
+[FF:C018:knowledge_experience.relevant_profession] = false
+[FF:C018:knowledge_experience.ke_notes] = null
+[FF:C018:recommendation_context.investable_amount_gbp] = 22500
+[FF:C018:recommendation_context.contribution_type] = "lump_sum"
+[FF:C018:recommendation_context.recommended_wrapper] = "both"
+[FF:C018:recommendation_context.adviser_rationale_notes] = null
+
+## MEETING TRANSCRIPT (cite as the TR: span-ID shown)
+[TR:C018:0001] ADVISER: Thanks for coming in. To start, what are you hoping to achieve with this money?
+[TR:C018:0002] CLIENT: Mainly to save for children's university costs. I've got about £22,500 to put in.
+[TR:C018:0003] ADVISER: And what sort of timeframe are you working to?
+[TR:C018:0004] CLIENT: I'd say around 5 years.
+[TR:C018:0005] ADVISER: How would you feel if the value fell noticeably in a bad year?
+[TR:C018:0006] CLIENT: I'm comfortable with meaningful swings.
+[TR:C018:0007] ADVISER: If you did lose some of this money, how would it affect your day-to-day finances?
+[TR:C018:0008] CLIENT: My take is: substantial liquid assets and high disposable income relative to commitments.
+[TR:C018:0009] ADVISER: Have you invested before, or mostly cash savings?
+[TR:C018:0010] CLIENT: Mostly cash savings; I trade sometimes.
+[TR:C018:0011] ADVISER: Income and outgoings — roughly £176,400 a year and £3,350 essential monthly costs, is that right?
+[TR:C018:0012] CLIENT: Yes, that's about right.
+[TR:C018:0013] ADVISER: Thanks. I'll review this and set out my recommendation in writing before anything proceeds.
+
+## PRODUCT FACTSHEET(S) (cite as the FS: span-ID shown)
+[FS:ISA:01] Product summary: Stocks & shares ISA wrapper holding the Aldercroft Balanced Growth Fund (multi-asset, ~60% global equities / 40% bonds). Retail share class.
+[FS:ISA:02] Investment objective & policy: Capital growth over 5+ years via a diversified multi-asset portfolio. No capital guarantee.
+[FS:ISA:03] Risk indicator & key risks: Summary risk indicator: 4 of 7. Key risks: market risk (value can fall below amount invested); currency risk on non-GBP holdings; no capital guarantee; recommended minimum holding period 5 years.
+[FS:ISA:04] Charges: Platform fee 0.25% p.a. · Fund ongoing charge (OCF) 0.60% p.a. · No entry, exit, or performance fees. Illustrative total: 0.85% p.a.
+[FS:ISA:05] Tax treatment: Income and gains within the ISA are free of UK income tax and CGT. Subscriptions subject to the annual ISA allowance [VERIFY current HMRC limit before any client-facing use — fictitious corpus does not assert a figure].
+[FS:ISA:06] Access & withdrawals: Daily dealing; withdrawals normally paid within 5 business days. Not a flexible ISA: withdrawn amounts cannot be replaced within the same tax year without using allowance.
+[FS:ISA:07] Minimum investment: £1,000 lump sum or £50 per month.
+[FS:GIA:01] Product summary: Unwrapped general investment account holding the Aldercroft Balanced Growth Fund (multi-asset, ~60% global equities / 40% bonds). Retail share class. No subscription limit.
+[FS:GIA:02] Investment objective & policy: Capital growth over 5+ years via a diversified multi-asset portfolio. No capital guarantee.
+[FS:GIA:03] Risk indicator & key risks: Summary risk indicator: 4 of 7. Key risks: market risk (value can fall below amount invested); currency risk on non-GBP holdings; no capital guarantee; recommended minimum holding period 5 years.
+[FS:GIA:04] Charges: Platform fee 0.25% p.a. · Fund ongoing charge (OCF) 0.60% p.a. · No entry, exit, or performance fees. Illustrative total: 0.85% p.a.
+[FS:GIA:05] Tax treatment: Not tax-sheltered: dividends taxable above the dividend allowance; gains subject to CGT above the annual exempt amount [VERIFY current HMRC figures before any client-facing use — fictitious corpus does not assert figures].
+[FS:GIA:06] Access & withdrawals: Daily dealing; withdrawals normally paid within 5 business days. No withdrawal restrictions.
+[FS:GIA:07] Minimum investment: £1,000 lump sum or £50 per month.
+
+## REGULATORY KB EXTRACTS (cite as the KB: span-ID shown)
+[KB:COBS_9A_3:01_applies_to_scope] (COBS_9A_3.md) Applies to (scope):
+MiFID/equivalent business and IBIPs involving investment advice or portfolio management to a **retail client**. S&S ISA + GIA holding MiFID financial instruments → this chapter is the **primary** authority for v1.
+[KB:COBS_9A_3:02_what_the_report_must_contain_do_paraphra] (COBS_9A_3.md) What the report must contain / do (paraphrase):
+- On giving investment advice to a retail client, the firm must, **before the transaction concludes**, give a suitability report in a durable medium that states the advice given and how it fits the client's preferences, objectives and other characteristics. [Note: art 25(6) MiFID]
+- MiFID Org Reg art 54(12): the report must outline the advice and why the recommendation is suitable — referencing investment term, the client's knowledge & experience, attitude to risk and **capacity for loss** — and flag whether the recommendation will likely need periodic review.
+- Distance-communication carve-out: report may follow immediately after conclusion if the client consented to delayed receipt **and** was offered the option to delay the transaction to receive it first.
+[KB:COBS_9A_2:01_applies_to_scope] (COBS_9A_2.md) Applies to (scope):
+Suitability assessment for MiFID/IBIP investment advice or portfolio management to retail clients. Governs the **client-information substrate** the report must evidence.
+[KB:COBS_9A_2:02_what_the_firm_must_do_paraphrase] (COBS_9A_2.md) What the firm must do (paraphrase):
+- Obtain the information needed on the client's (a) **knowledge & experience** in the relevant field, (b) **financial situation including ability to bear losses**, (c) **investment objectives including risk tolerance** — so as to recommend only what is suitable, in particular consistent with the client's risk tolerance and ability to bear losses. [Note: art 25(2) MiFID]
+- Financial-situation information must, where relevant, cover source and extent of regular income, assets (including liquid assets, investments, real property) and regular financial commitments.
+- Suitability must be assessed for **all decisions to trade — including hold and sell — not only buy** recommendations.
+- A bundled package recommended under COBS 6.1ZA.16R must be suitable **as a whole**.
+- For a legal person / group of natural persons: establish, record and implement a policy on who is assessed and how, including from whom the information is collected.
+[KB:COBS_4_2:01_applies_to_scope] (COBS_4_2.md) Applies to (scope):
+Communications and financial promotions to clients. Applies whether the client is retail or professional, taking account of the nature of the client.
+[KB:COBS_4_2:02_what_the_firm_must_do_paraphrase] (COBS_4_2.md) What the firm must do (paraphrase):
+- Ensure a communication or financial promotion is **fair, clear and not misleading**.
+[KB:PRIN_2A:01_applies_to_scope] (PRIN_2A.md) Applies to (scope):
+All retail-market business with retail customers. In force 31/07/2023 (open products) / 31/07/2024 (closed). For investments, applies to clients who are **not professional clients**. Replaces Principles 6 & 7 where it applies; higher/more exacting standard (PRIN 2A.1.17G).
+[KB:PRIN_2A:02_what_the_firm_must_do_paraphrase] (PRIN_2A.md) What the firm must do (paraphrase):
+- **Principle 12:** act to deliver good outcomes for retail customers.
+- **Cross-cutting rules (PRIN 2A.2):** (i) act in good faith (PRIN 2A.2.1R); (ii) avoid causing foreseeable harm (PRIN 2A.2.8R); (iii) enable and support retail customers to pursue their financial objectives (PRIN 2A.2.14)
+- **Four outcomes:** products & services governance (PRIN 2A.3); **price & value / fair value** (PRIN 2A.4); **consumer understanding** (PRIN 2A.5); consumer support (PRIN 2A.6).
+- Underpinned by an objective **reasonableness** test, proportionate to the firm's size and role.
+[KB:PRIN_2A:03_what_the_firm_must_avoid_paraphrase] (PRIN_2A.md) What the firm must avoid (paraphrase):
+- **PRIN 2A.2.3:** Example of not acting in good faith: 
+Failing to take account of client's interests while designing a product or presenting information to them
+[KB:FG22_5:01_applies_to_scope] (FG22_5.md) Applies to (scope):
+Guidance on how firms comply with Principle 12 + PRIN 2A. Non-binding; does not replace the Handbook (¶1.11). For investments, the Duty applies to **non-professional clients** per COBS (¶2.3).
+[KB:FG22_5:02_what_it_requires_explains_paraphrase] (FG22_5.md) What it requires / explains (paraphrase):
+- Duty components: Consumer Principle + three cross-cutting rules + four outcomes (products & services; price & value; consumer understanding; consumer support) (¶1.3).
+- **Reasonableness** is an objective test — the standard of a prudent firm carrying on the same activity with understanding of the target market (¶1.4).
+- "must / should / may" convention defined (¶1.15).
+- Chapter map: Ch.7 = price & value; **Ch.8 = consumer understanding** (communications that equip customers to make effective, timely, informed decisions); Ch.9 = consumer support.
+[KB:COBS_2_1:01_applies_to_scope] (COBS_2_1.md) Applies to (scope):
+Overarching conduct standard. Applies to designated investment business for retail clients; MiFID/etc. for any client; insurance distribution for any client. [Note: art 24(1) MiFID]
+[KB:COBS_2_1:02_what_the_firm_must_do_paraphrase] (COBS_2_1.md) What the firm must do (paraphrase):
+- Act honestly, fairly and professionally in line with the best interests of the client (the **client's best interests rule**).
+- This obligation is treated as **including** the duties under Principles 1 (integrity), 2 (skill, care & diligence) and 6 (customers' interests).

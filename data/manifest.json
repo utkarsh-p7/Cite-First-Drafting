@@ -1,0 +1,263 @@
+{
+ "generator": "generate.py",
+ "seed": 42,
+ "n": 40,
+ "hard_frac": 0.3,
+ "label_fictitious": true,
+ "cases": [
+  {
+   "case_id": "C001",
+   "condition": "hard:contradiction",
+   "perturbation": {
+    "type": "hard:contradiction",
+    "field": "objectives.horizon_years",
+    "fact_find_value": 5,
+    "transcript_value": 10
+   }
+  },
+  {
+   "case_id": "C002",
+   "condition": "hard:absent_capacity",
+   "perturbation": {
+    "type": "hard:absent_capacity",
+    "field": "financial_situation.capacity_for_loss",
+    "removed_value": "medium"
+   }
+  },
+  {
+   "case_id": "C003",
+   "condition": "hard:ambiguous_horizon",
+   "perturbation": {
+    "type": "hard:ambiguous_horizon",
+    "field": "objectives.horizon_years",
+    "removed_value": 3,
+    "vague_text": "no fixed date really"
+   }
+  },
+  {
+   "case_id": "C004",
+   "condition": "clean",
+   "perturbation": null
+  },
+  {
+   "case_id": "C005",
+   "condition": "clean",
+   "perturbation": null
+  },
+  {
+   "case_id": "C006",
+   "condition": "clean",
+   "perturbation": null
+  },
+  {
+   "case_id": "C007",
+   "condition": "clean",
+   "perturbation": null
+  },
+  {
+   "case_id": "C008",
+   "condition": "hard:absent_capacity",
+   "perturbation": {
+    "type": "hard:absent_capacity",
+    "field": "financial_situation.capacity_for_loss",
+    "removed_value": "medium"
+   }
+  },
+  {
+   "case_id": "C009",
+   "condition": "hard:missing_risk",
+   "perturbation": {
+    "type": "hard:missing_risk",
+    "field": "objectives.atr_score",
+    "removed_value": 5
+   }
+  },
+  {
+   "case_id": "C010",
+   "condition": "clean",
+   "perturbation": null
+  },
+  {
+   "case_id": "C011",
+   "condition": "clean",
+   "perturbation": null
+  },
+  {
+   "case_id": "C012",
+   "condition": "clean",
+   "perturbation": null
+  },
+  {
+   "case_id": "C013",
+   "condition": "clean",
+   "perturbation": null
+  },
+  {
+   "case_id": "C014",
+   "condition": "clean",
+   "perturbation": null
+  },
+  {
+   "case_id": "C015",
+   "condition": "clean",
+   "perturbation": null
+  },
+  {
+   "case_id": "C016",
+   "condition": "clean",
+   "perturbation": null
+  },
+  {
+   "case_id": "C017",
+   "condition": "clean",
+   "perturbation": null
+  },
+  {
+   "case_id": "C018",
+   "condition": "clean",
+   "perturbation": null
+  },
+  {
+   "case_id": "C019",
+   "condition": "clean",
+   "perturbation": null
+  },
+  {
+   "case_id": "C020",
+   "condition": "clean",
+   "perturbation": null
+  },
+  {
+   "case_id": "C021",
+   "condition": "clean",
+   "perturbation": null
+  },
+  {
+   "case_id": "C022",
+   "condition": "clean",
+   "perturbation": null
+  },
+  {
+   "case_id": "C023",
+   "condition": "clean",
+   "perturbation": null
+  },
+  {
+   "case_id": "C024",
+   "condition": "clean",
+   "perturbation": null
+  },
+  {
+   "case_id": "C025",
+   "condition": "clean",
+   "perturbation": null
+  },
+  {
+   "case_id": "C026",
+   "condition": "clean",
+   "perturbation": null
+  },
+  {
+   "case_id": "C027",
+   "condition": "clean",
+   "perturbation": null
+  },
+  {
+   "case_id": "C028",
+   "condition": "clean",
+   "perturbation": null
+  },
+  {
+   "case_id": "C029",
+   "condition": "hard:ambiguous_horizon",
+   "perturbation": {
+    "type": "hard:ambiguous_horizon",
+    "field": "objectives.horizon_years",
+    "removed_value": 7,
+    "vague_text": "five-ish years? could be ten"
+   }
+  },
+  {
+   "case_id": "C030",
+   "condition": "hard:missing_risk",
+   "perturbation": {
+    "type": "hard:missing_risk",
+    "field": "objectives.atr_score",
+    "removed_value": 2
+   }
+  },
+  {
+   "case_id": "C031",
+   "condition": "clean",
+   "perturbation": null
+  },
+  {
+   "case_id": "C032",
+   "condition": "clean",
+   "perturbation": null
+  },
+  {
+   "case_id": "C033",
+   "condition": "hard:contradiction",
+   "perturbation": {
+    "type": "hard:contradiction",
+    "field": "objectives.horizon_years",
+    "fact_find_value": 20,
+    "transcript_value": 18
+   }
+  },
+  {
+   "case_id": "C034",
+   "condition": "hard:ambiguous_horizon",
+   "perturbation": {
+    "type": "hard:ambiguous_horizon",
+    "field": "objectives.horizon_years",
+    "removed_value": 3,
+    "vague_text": "until we need it, hard to say"
+   }
+  },
+  {
+   "case_id": "C035",
+   "condition": "hard:missing_risk",
+   "perturbation": {
+    "type": "hard:missing_risk",
+    "field": "objectives.atr_score",
+    "removed_value": 3
+   }
+  },
+  {
+   "case_id": "C036",
+   "condition": "clean",
+   "perturbation": null
+  },
+  {
+   "case_id": "C037",
+   "condition": "clean",
+   "perturbation": null
+  },
+  {
+   "case_id": "C038",
+   "condition": "clean",
+   "perturbation": null
+  },
+  {
+   "case_id": "C039",
+   "condition": "hard:contradiction",
+   "perturbation": {
+    "type": "hard:contradiction",
+    "field": "objectives.atr_score",
+    "fact_find_value": 2,
+    "transcript_value": 5
+   }
+  },
+  {
+   "case_id": "C040",
+   "condition": "hard:absent_capacity",
+   "perturbation": {
+    "type": "hard:absent_capacity",
+    "field": "financial_situation.capacity_for_loss",
+    "removed_value": "medium"
+   }
+  }
+ ]
+}

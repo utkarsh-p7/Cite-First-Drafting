@@ -1,0 +1,55 @@
+{
+ "case_id": "C031",
+ "label_fictitious": true,
+ "schema_version": "1.0",
+ "generator_seed": 2808127595,
+ "condition": "clean",
+ "client": {
+  "name": "Callum Marsh",
+  "age": 65,
+  "employment_status": "not_working",
+  "dependants": 0,
+  "tax_band": "higher"
+ },
+ "objectives": {
+  "primary_objective": "supplement retirement savings outside pension",
+  "target_amount_gbp": null,
+  "horizon_years": 3,
+  "horizon_text": "around 3 years",
+  "atr_score": 1,
+  "atr_descriptor": "cautious",
+  "risk_notes": null,
+  "missing_reason": null
+ },
+ "financial_situation": {
+  "gross_annual_income_gbp": 87500,
+  "income_source": "salary",
+  "monthly_essential_expenditure_gbp": 1800,
+  "monthly_discretionary_expenditure_gbp": 1250,
+  "assets": {
+   "cash_gbp": 44500,
+   "investments_gbp": 18500,
+   "property_gbp": null
+  },
+  "liabilities_gbp": 6000,
+  "emergency_fund_months": 24.7,
+  "capacity_for_loss": "high",
+  "capacity_for_loss_basis": "substantial liquid assets and high disposable income relative to commitments",
+  "isa_allowance_used_gbp": 12000,
+  "missing_reason": null
+ },
+ "knowledge_experience": {
+  "products_held_before": [
+   "none"
+  ],
+  "trading_frequency": "rarely",
+  "relevant_profession": false,
+  "ke_notes": null
+ },
+ "recommendation_context": {
+  "investable_amount_gbp": 30000,
+  "contribution_type": "lump_sum",
+  "recommended_wrapper": "both",
+  "adviser_rationale_notes": null
+ }
+}

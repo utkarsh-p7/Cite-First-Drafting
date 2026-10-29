@@ -1,0 +1,55 @@
+{
+ "case_id": "C027",
+ "label_fictitious": true,
+ "schema_version": "1.0",
+ "generator_seed": 3528779039,
+ "condition": "clean",
+ "client": {
+  "name": "Noah Nash",
+  "age": 28,
+  "employment_status": "employed",
+  "dependants": 3,
+  "tax_band": "basic"
+ },
+ "objectives": {
+  "primary_objective": "grow long-term savings beyond cash",
+  "target_amount_gbp": null,
+  "horizon_years": 7,
+  "horizon_text": "around 7 years",
+  "atr_score": 4,
+  "atr_descriptor": "moderately_adventurous",
+  "risk_notes": null,
+  "missing_reason": null
+ },
+ "financial_situation": {
+  "gross_annual_income_gbp": 30600,
+  "income_source": "salary",
+  "monthly_essential_expenditure_gbp": 1850,
+  "monthly_discretionary_expenditure_gbp": 1400,
+  "assets": {
+   "cash_gbp": 25000,
+   "investments_gbp": 0,
+   "property_gbp": null
+  },
+  "liabilities_gbp": 15500,
+  "emergency_fund_months": 13.5,
+  "capacity_for_loss": "medium",
+  "capacity_for_loss_basis": "stable income, adequate emergency fund, moderate surplus",
+  "isa_allowance_used_gbp": 0,
+  "missing_reason": null
+ },
+ "knowledge_experience": {
+  "products_held_before": [
+   "cash_savings"
+  ],
+  "trading_frequency": "rarely",
+  "relevant_profession": false,
+  "ke_notes": null
+ },
+ "recommendation_context": {
+  "investable_amount_gbp": 11500,
+  "contribution_type": "both",
+  "recommended_wrapper": "ss_isa",
+  "adviser_rationale_notes": null
+ }
+}

@@ -1,0 +1,57 @@
+{
+ "case_id": "C036",
+ "label_fictitious": true,
+ "schema_version": "1.0",
+ "generator_seed": 4272582173,
+ "condition": "clean",
+ "client": {
+  "name": "Fatima Haruki",
+  "age": 36,
+  "employment_status": "self_employed",
+  "dependants": 0,
+  "tax_band": "basic"
+ },
+ "objectives": {
+  "primary_objective": "invest an inheritance for growth",
+  "target_amount_gbp": 101000,
+  "horizon_years": 3,
+  "horizon_text": "around 3 years",
+  "atr_score": 5,
+  "atr_descriptor": "adventurous",
+  "risk_notes": null,
+  "missing_reason": null
+ },
+ "financial_situation": {
+  "gross_annual_income_gbp": 33900,
+  "income_source": "salary",
+  "monthly_essential_expenditure_gbp": 1550,
+  "monthly_discretionary_expenditure_gbp": 500,
+  "assets": {
+   "cash_gbp": 14000,
+   "investments_gbp": 16500,
+   "property_gbp": null
+  },
+  "liabilities_gbp": 0,
+  "emergency_fund_months": 9.0,
+  "capacity_for_loss": "medium",
+  "capacity_for_loss_basis": "stable income, adequate emergency fund, moderate surplus",
+  "isa_allowance_used_gbp": 7000,
+  "missing_reason": null
+ },
+ "knowledge_experience": {
+  "products_held_before": [
+   "cash_savings",
+   "funds",
+   "shares"
+  ],
+  "trading_frequency": "rarely",
+  "relevant_profession": false,
+  "ke_notes": null
+ },
+ "recommendation_context": {
+  "investable_amount_gbp": 21500,
+  "contribution_type": "lump_sum",
+  "recommended_wrapper": "ss_isa",
+  "adviser_rationale_notes": null
+ }
+}

@@ -1,0 +1,201 @@
+{
+ "case_id": "C020",
+ "label_fictitious": true,
+ "schema_version": "1.0",
+ "condition": "clean",
+ "facts": [
+  {
+   "fact_key": "client_identity",
+   "status": "supported",
+   "spans": [
+    "FF:C020:client.name",
+    "FF:C020:client.age"
+   ],
+   "value": {
+    "name": "Amara Colville",
+    "age": 50
+   },
+   "conflict": null,
+   "detail": null
+  },
+  {
+   "fact_key": "investable_amount",
+   "status": "supported",
+   "spans": [
+    "FF:C020:recommendation_context.investable_amount_gbp",
+    "TR:C020:0002"
+   ],
+   "value": 25500,
+   "conflict": null,
+   "detail": null
+  },
+  {
+   "fact_key": "contribution_type",
+   "status": "supported",
+   "spans": [
+    "FF:C020:recommendation_context.contribution_type"
+   ],
+   "value": "lump_sum",
+   "conflict": null,
+   "detail": null
+  },
+  {
+   "fact_key": "recommended_wrapper",
+   "status": "supported",
+   "spans": [
+    "FF:C020:recommendation_context.recommended_wrapper"
+   ],
+   "value": "ss_isa",
+   "conflict": null,
+   "detail": null
+  },
+  {
+   "fact_key": "primary_objective",
+   "status": "supported",
+   "spans": [
+    "FF:C020:objectives.primary_objective",
+    "TR:C020:0002"
+   ],
+   "value": "invest an inheritance for growth",
+   "conflict": null,
+   "detail": null
+  },
+  {
+   "fact_key": "investment_horizon",
+   "status": "supported",
+   "spans": [
+    "FF:C020:objectives.horizon_years",
+    "TR:C020:0004"
+   ],
+   "value": 20,
+   "conflict": null,
+   "detail": null
+  },
+  {
+   "fact_key": "risk_tolerance_atr",
+   "status": "supported",
+   "spans": [
+    "FF:C020:objectives.atr_score",
+    "TR:C020:0006"
+   ],
+   "value": {
+    "score": 1,
+    "descriptor": "cautious"
+   },
+   "conflict": null,
+   "detail": null
+  },
+  {
+   "fact_key": "capacity_for_loss",
+   "status": "supported",
+   "spans": [
+    "FF:C020:financial_situation.capacity_for_loss",
+    "TR:C020:0008"
+   ],
+   "value": "medium",
+   "conflict": null,
+   "detail": null
+  },
+  {
+   "fact_key": "income",
+   "status": "supported",
+   "spans": [
+    "FF:C020:financial_situation.gross_annual_income_gbp",
+    "TR:C020:0011",
+    "TR:C020:0012"
+   ],
+   "value": 88300,
+   "conflict": null,
+   "detail": null
+  },
+  {
+   "fact_key": "essential_expenditure",
+   "status": "supported",
+   "spans": [
+    "FF:C020:financial_situation.monthly_essential_expenditure_gbp",
+    "TR:C020:0011",
+    "TR:C020:0012"
+   ],
+   "value": 2500,
+   "conflict": null,
+   "detail": null
+  },
+  {
+   "fact_key": "emergency_fund",
+   "status": "supported",
+   "spans": [
+    "FF:C020:financial_situation.emergency_fund_months"
+   ],
+   "value": 5.0,
+   "conflict": null,
+   "detail": null
+  },
+  {
+   "fact_key": "liabilities",
+   "status": "supported",
+   "spans": [
+    "FF:C020:financial_situation.liabilities_gbp"
+   ],
+   "value": 2500,
+   "conflict": null,
+   "detail": null
+  },
+  {
+   "fact_key": "knowledge_experience",
+   "status": "supported",
+   "spans": [
+    "FF:C020:knowledge_experience.products_held_before",
+    "FF:C020:knowledge_experience.trading_frequency",
+    "TR:C020:0010"
+   ],
+   "value": {
+    "products": [
+     "none"
+    ],
+    "frequency": "rarely"
+   },
+   "conflict": null,
+   "detail": null
+  },
+  {
+   "fact_key": "isa_allowance_used",
+   "status": "supported",
+   "spans": [
+    "FF:C020:financial_situation.isa_allowance_used_gbp"
+   ],
+   "value": 0,
+   "conflict": null,
+   "detail": null
+  },
+  {
+   "fact_key": "product_key_risks",
+   "status": "supported",
+   "spans": [
+    "FS:ISA:03"
+   ],
+   "value": "ISA key risks per factsheet \u00a703",
+   "conflict": null,
+   "detail": null
+  },
+  {
+   "fact_key": "product_charges",
+   "status": "supported",
+   "spans": [
+    "FS:ISA:04"
+   ],
+   "value": "ISA charges per factsheet \u00a704",
+   "conflict": null,
+   "detail": null
+  },
+  {
+   "fact_key": "product_tax_treatment",
+   "status": "supported",
+   "spans": [
+    "FS:ISA:05"
+   ],
+   "value": "ISA tax treatment per factsheet \u00a705",
+   "conflict": null,
+   "detail": null
+  }
+ ]
+}

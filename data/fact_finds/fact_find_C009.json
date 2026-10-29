@@ -1,0 +1,56 @@
+{
+ "case_id": "C009",
+ "label_fictitious": true,
+ "schema_version": "1.0",
+ "generator_seed": 3505225059,
+ "condition": "hard:missing_risk",
+ "client": {
+  "name": "Megan Whitfield",
+  "age": 43,
+  "employment_status": "employed",
+  "dependants": 0,
+  "tax_band": "additional"
+ },
+ "objectives": {
+  "primary_objective": "general wealth accumulation",
+  "target_amount_gbp": 132000,
+  "horizon_years": 7,
+  "horizon_text": "around 7 years",
+  "atr_score": null,
+  "atr_descriptor": null,
+  "risk_notes": null,
+  "missing_reason": "declined"
+ },
+ "financial_situation": {
+  "gross_annual_income_gbp": 149000,
+  "income_source": "salary",
+  "monthly_essential_expenditure_gbp": 3300,
+  "monthly_discretionary_expenditure_gbp": 200,
+  "assets": {
+   "cash_gbp": 53000,
+   "investments_gbp": 0,
+   "property_gbp": null
+  },
+  "liabilities_gbp": 0,
+  "emergency_fund_months": 16.1,
+  "capacity_for_loss": "high",
+  "capacity_for_loss_basis": "substantial liquid assets and high disposable income relative to commitments",
+  "isa_allowance_used_gbp": 14000,
+  "missing_reason": null
+ },
+ "knowledge_experience": {
+  "products_held_before": [
+   "cash_savings",
+   "pension"
+  ],
+  "trading_frequency": "never",
+  "relevant_profession": true,
+  "ke_notes": null
+ },
+ "recommendation_context": {
+  "investable_amount_gbp": 13500,
+  "contribution_type": "lump_sum",
+  "recommended_wrapper": "ss_isa",
+  "adviser_rationale_notes": null
+ }
+}

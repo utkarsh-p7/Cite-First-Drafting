@@ -1,0 +1,56 @@
+{
+ "case_id": "C024",
+ "label_fictitious": true,
+ "schema_version": "1.0",
+ "generator_seed": 3504872715,
+ "condition": "clean",
+ "client": {
+  "name": "Priya Brennan",
+  "age": 33,
+  "employment_status": "employed",
+  "dependants": 1,
+  "tax_band": "additional"
+ },
+ "objectives": {
+  "primary_objective": "save for children's university costs",
+  "target_amount_gbp": 111000,
+  "horizon_years": 20,
+  "horizon_text": "around 20 years",
+  "atr_score": 4,
+  "atr_descriptor": "moderately_adventurous",
+  "risk_notes": null,
+  "missing_reason": null
+ },
+ "financial_situation": {
+  "gross_annual_income_gbp": 128300,
+  "income_source": "salary",
+  "monthly_essential_expenditure_gbp": 850,
+  "monthly_discretionary_expenditure_gbp": 1250,
+  "assets": {
+   "cash_gbp": 13500,
+   "investments_gbp": 26500,
+   "property_gbp": null
+  },
+  "liabilities_gbp": 0,
+  "emergency_fund_months": 15.9,
+  "capacity_for_loss": "high",
+  "capacity_for_loss_basis": "substantial liquid assets and high disposable income relative to commitments",
+  "isa_allowance_used_gbp": 0,
+  "missing_reason": null
+ },
+ "knowledge_experience": {
+  "products_held_before": [
+   "cash_savings",
+   "ss_isa"
+  ],
+  "trading_frequency": "rarely",
+  "relevant_profession": false,
+  "ke_notes": null
+ },
+ "recommendation_context": {
+  "investable_amount_gbp": 18500,
+  "contribution_type": "lump_sum",
+  "recommended_wrapper": "ss_isa",
+  "adviser_rationale_notes": null
+ }
+}

@@ -1,0 +1,37 @@
+## The advice we are giving you
+We recommend that you invest the £5,500 you have available into a Stocks & Shares ISA (wrapper “ss_isa”) holding the Aldercroft Balanced Growth Fund. The investment will be made as a lump‑sum contribution and the ISA will be used to help you build a house deposit over the next 15 years. [FF:C032:recommendation_context.recommended_wrapper][FF:C032:recommendation_context.investable_amount_gbp]
+
+## Your objectives, circumstances, knowledge and experience
+- **Primary objective:** Build a house deposit of about £140,000. [FF:C032:objectives.primary_objective][FF:C032:objectives.target_amount_gbp]  
+- **Time horizon:** Around 15 years. [FF:C032:objectives.horizon_years][FF:C032:objectives.horizon_text]  
+- **Age and employment:** You are 38 and employed with a salary of £28,700 per year. [FF:C032:client.age][FF:C032:financial_situation.gross_annual_income_gbp]  
+- **Financial situation:**  
+  - Monthly essential expenditure £850 and discretionary expenditure £1,150. [FF:C032:financial_situation.monthly_essential_expenditure_gbp][FF:C032:financial_situation.monthly_discretionary_expenditure_gbp]  
+  - Cash savings of £53,000 and no other investments. [FF:C032:financial_situation.assets.cash_gbp][FF:C032:financial_situation.assets.investments_gbp]  
+  - Liabilities of £8,500 and an emergency fund covering 62.4 months of expenses. [FF:C032:financial_situation.liabilities_gbp][FF:C032:financial_situation.emergency_fund_months]  
+- **Risk profile:** Attitude to risk score 2 (moderately cautious) and capacity for loss described as “medium” based on stable income, adequate emergency fund and moderate surplus. [FF:C032:objectives.atr_score][FF:C032:objectives.atr_descriptor][FF:C032:financial_situation.capacity_for_loss][FF:C032:financial_situation.capacity_for_loss_basis]  
+- **Knowledge & experience:** You have previously held cash savings, funds and shares but have never traded. [FF:C032:knowledge_experience.products_held_before][FF:C032:knowledge_experience.trading_frequency]  
+
+## Why this recommendation is suitable for you
+The Stocks & Shares ISA holds a diversified multi‑asset fund (approximately 60 % global equities and 40 % bonds) whose investment objective is capital growth over a period of five years or more, matching your 15‑year horizon. [FS:ISA:01][FS:ISA:02]  
+The fund’s risk indicator is 4 of 7, which aligns with a moderately cautious attitude to risk and a medium capacity for loss. [FS:ISA:03]  
+Using an ISA wrapper gives you tax‑free growth – any income or capital gains generated are free from UK income tax and CGT, which supports your long‑term goal of accumulating a large deposit. [FS:ISA:05]  
+The minimum investment (£1,000 lump sum) is well below the £5,500 you wish to invest, and the product allows daily dealing and withdrawals (though withdrawn amounts cannot be replaced in the same tax year). [FS:ISA:07][FS:ISA:06]  
+
+## Risks and possible disadvantages
+- **Market risk:** The value of the fund can fall below the amount you invest, especially in a bad market year. [FS:ISA:03]  
+- **Currency risk:** Non‑GBP holdings expose you to fluctuations in foreign exchange rates. [FS:ISA:03]  
+- **No capital guarantee:** There is no guarantee that you will get back the original £5,500. [FS:ISA:03]  
+- **Liquidity limitation:** Withdrawn amounts cannot be replaced within the same tax year, which may limit future contributions if you need to top‑up later. [FS:ISA:06]  
+
+## Costs and charges
+The total annual cost of the investment is 0.85 % (platform fee 0.25 % plus fund ongoing charge 0.60 %). There are no entry, exit or performance fees. [FS:ISA:04]  
+
+## Ongoing review of your arrangements
+Given the 15‑year investment horizon and the moderate risk profile, a periodic review (e.g., every 2–3 years) is likely to be needed to ensure the investment remains appropriate as your circumstances or market conditions change. [KB:COBS_9A_3:02_what_the_report_must_contain_do_paraphra]  
+
+## About this report
+This suitability report is provided to you before any transaction is concluded, in a durable medium, and sets out the advice we are giving, why it is suitable, the risks, costs and the likely need for periodic review. [KB:COBS_9A_3:02_what_the_report_must_contain_do_paraphra]  
+
+## Missing information we still need from you
+- None identified.

@@ -1,0 +1,56 @@
+{
+ "case_id": "C028",
+ "label_fictitious": true,
+ "schema_version": "1.0",
+ "generator_seed": 822460558,
+ "condition": "clean",
+ "client": {
+  "name": "Fatima Abara",
+  "age": 45,
+  "employment_status": "employed",
+  "dependants": 2,
+  "tax_band": "higher"
+ },
+ "objectives": {
+  "primary_objective": "build a house deposit",
+  "target_amount_gbp": null,
+  "horizon_years": 20,
+  "horizon_text": "around 20 years",
+  "atr_score": 5,
+  "atr_descriptor": "adventurous",
+  "risk_notes": null,
+  "missing_reason": null
+ },
+ "financial_situation": {
+  "gross_annual_income_gbp": 80200,
+  "income_source": "salary",
+  "monthly_essential_expenditure_gbp": 3000,
+  "monthly_discretionary_expenditure_gbp": 150,
+  "assets": {
+   "cash_gbp": 29500,
+   "investments_gbp": 0,
+   "property_gbp": null
+  },
+  "liabilities_gbp": 0,
+  "emergency_fund_months": 9.8,
+  "capacity_for_loss": "high",
+  "capacity_for_loss_basis": "substantial liquid assets and high disposable income relative to commitments",
+  "isa_allowance_used_gbp": 0,
+  "missing_reason": null
+ },
+ "knowledge_experience": {
+  "products_held_before": [
+   "cash_savings",
+   "pension"
+  ],
+  "trading_frequency": "sometimes",
+  "relevant_profession": false,
+  "ke_notes": null
+ },
+ "recommendation_context": {
+  "investable_amount_gbp": 34500,
+  "contribution_type": "lump_sum",
+  "recommended_wrapper": "both",
+  "adviser_rationale_notes": null
+ }
+}

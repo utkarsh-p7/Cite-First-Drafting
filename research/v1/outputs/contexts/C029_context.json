@@ -1,0 +1,391 @@
+{
+ "case_id": "C029",
+ "fact_find_spans": [
+  {
+   "field_path": "client.name",
+   "span_id": "FF:C029:client.name",
+   "value": "Arjun Whitfield"
+  },
+  {
+   "field_path": "client.age",
+   "span_id": "FF:C029:client.age",
+   "value": 38
+  },
+  {
+   "field_path": "client.employment_status",
+   "span_id": "FF:C029:client.employment_status",
+   "value": "employed"
+  },
+  {
+   "field_path": "client.dependants",
+   "span_id": "FF:C029:client.dependants",
+   "value": 3
+  },
+  {
+   "field_path": "client.tax_band",
+   "span_id": "FF:C029:client.tax_band",
+   "value": "basic"
+  },
+  {
+   "field_path": "objectives.primary_objective",
+   "span_id": "FF:C029:objectives.primary_objective",
+   "value": "save for children's university costs"
+  },
+  {
+   "field_path": "objectives.target_amount_gbp",
+   "span_id": "FF:C029:objectives.target_amount_gbp",
+   "value": null
+  },
+  {
+   "field_path": "objectives.horizon_years",
+   "span_id": "FF:C029:objectives.horizon_years",
+   "value": null
+  },
+  {
+   "field_path": "objectives.horizon_text",
+   "span_id": "FF:C029:objectives.horizon_text",
+   "value": "five-ish years? could be ten"
+  },
+  {
+   "field_path": "objectives.atr_score",
+   "span_id": "FF:C029:objectives.atr_score",
+   "value": 5
+  },
+  {
+   "field_path": "objectives.atr_descriptor",
+   "span_id": "FF:C029:objectives.atr_descriptor",
+   "value": "adventurous"
+  },
+  {
+   "field_path": "objectives.risk_notes",
+   "span_id": "FF:C029:objectives.risk_notes",
+   "value": null
+  },
+  {
+   "field_path": "objectives.missing_reason",
+   "span_id": "FF:C029:objectives.missing_reason",
+   "value": null
+  },
+  {
+   "field_path": "financial_situation.gross_annual_income_gbp",
+   "span_id": "FF:C029:financial_situation.gross_annual_income_gbp",
+   "value": 30500
+  },
+  {
+   "field_path": "financial_situation.income_source",
+   "span_id": "FF:C029:financial_situation.income_source",
+   "value": "salary"
+  },
+  {
+   "field_path": "financial_situation.monthly_essential_expenditure_gbp",
+   "span_id": "FF:C029:financial_situation.monthly_essential_expenditure_gbp",
+   "value": 1550
+  },
+  {
+   "field_path": "financial_situation.monthly_discretionary_expenditure_gbp",
+   "span_id": "FF:C029:financial_situation.monthly_discretionary_expenditure_gbp",
+   "value": 550
+  },
+  {
+   "field_path": "financial_situation.assets.cash_gbp",
+   "span_id": "FF:C029:financial_situation.assets.cash_gbp",
+   "value": 20500
+  },
+  {
+   "field_path": "financial_situation.assets.investments_gbp",
+   "span_id": "FF:C029:financial_situation.assets.investments_gbp",
+   "value": 74000
+  },
+  {
+   "field_path": "financial_situation.assets.property_gbp",
+   "span_id": "FF:C029:financial_situation.assets.property_gbp",
+   "value": null
+  },
+  {
+   "field_path": "financial_situation.liabilities_gbp",
+   "span_id": "FF:C029:financial_situation.liabilities_gbp",
+   "value": 15500
+  },
+  {
+   "field_path": "financial_situation.emergency_fund_months",
+   "span_id": "FF:C029:financial_situation.emergency_fund_months",
+   "value": 13.2
+  },
+  {
+   "field_path": "financial_situation.capacity_for_loss",
+   "span_id": "FF:C029:financial_situation.capacity_for_loss",
+   "value": "medium"
+  },
+  {
+   "field_path": "financial_situation.capacity_for_loss_basis",
+   "span_id": "FF:C029:financial_situation.capacity_for_loss_basis",
+   "value": "stable income, adequate emergency fund, moderate surplus"
+  },
+  {
+   "field_path": "financial_situation.isa_allowance_used_gbp",
+   "span_id": "FF:C029:financial_situation.isa_allowance_used_gbp",
+   "value": 4500
+  },
+  {
+   "field_path": "financial_situation.missing_reason",
+   "span_id": "FF:C029:financial_situation.missing_reason",
+   "value": null
+  },
+  {
+   "field_path": "knowledge_experience.products_held_before",
+   "span_id": "FF:C029:knowledge_experience.products_held_before",
+   "value": [
+    "cash_savings",
+    "funds",
+    "shares"
+   ]
+  },
+  {
+   "field_path": "knowledge_experience.trading_frequency",
+   "span_id": "FF:C029:knowledge_experience.trading_frequency",
+   "value": "rarely"
+  },
+  {
+   "field_path": "knowledge_experience.relevant_profession",
+   "span_id": "FF:C029:knowledge_experience.relevant_profession",
+   "value": false
+  },
+  {
+   "field_path": "knowledge_experience.ke_notes",
+   "span_id": "FF:C029:knowledge_experience.ke_notes",
+   "value": null
+  },
+  {
+   "field_path": "recommendation_context.investable_amount_gbp",
+   "span_id": "FF:C029:recommendation_context.investable_amount_gbp",
+   "value": 9500
+  },
+  {
+   "field_path": "recommendation_context.contribution_type",
+   "span_id": "FF:C029:recommendation_context.contribution_type",
+   "value": "both"
+  },
+  {
+   "field_path": "recommendation_context.recommended_wrapper",
+   "span_id": "FF:C029:recommendation_context.recommended_wrapper",
+   "value": "ss_isa"
+  },
+  {
+   "field_path": "recommendation_context.adviser_rationale_notes",
+   "span_id": "FF:C029:recommendation_context.adviser_rationale_notes",
+   "value": null
+  }
+ ],
+ "factsheet_spans": [
+  {
+   "span_id": "FS:ISA:01",
+   "text": "Stocks & shares ISA wrapper holding the Aldercroft Balanced Growth Fund (multi-asset, ~60% global equities / 40% bonds). Retail share class.",
+   "title": "Product summary"
+  },
+  {
+   "span_id": "FS:ISA:02",
+   "text": "Capital growth over 5+ years via a diversified multi-asset portfolio. No capital guarantee.",
+   "title": "Investment objective & policy"
+  },
+  {
+   "span_id": "FS:ISA:03",
+   "text": "Summary risk indicator: 4 of 7. Key risks: market risk (value can fall below amount invested); currency risk on non-GBP holdings; no capital guarantee; recommended minimum holding period 5 years.",
+   "title": "Risk indicator & key risks"
+  },
+  {
+   "span_id": "FS:ISA:04",
+   "text": "Platform fee 0.25% p.a. · Fund ongoing charge (OCF) 0.60% p.a. · No entry, exit, or performance fees. Illustrative total: 0.85% p.a.",
+   "title": "Charges"
+  },
+  {
+   "span_id": "FS:ISA:05",
+   "text": "Income and gains within the ISA are free of UK income tax and CGT. Subscriptions subject to the annual ISA allowance [VERIFY current HMRC limit before any client-facing use — fictitious corpus does not assert a figure].",
+   "title": "Tax treatment"
+  },
+  {
+   "span_id": "FS:ISA:06",
+   "text": "Daily dealing; withdrawals normally paid within 5 business days. Not a flexible ISA: withdrawn amounts cannot be replaced within the same tax year without using allowance.",
+   "title": "Access & withdrawals"
+  },
+  {
+   "span_id": "FS:ISA:07",
+   "text": "£1,000 lump sum or £50 per month.",
+   "title": "Minimum investment"
+  }
+ ],
+ "kb_spans": [
+  {
+   "kb_file": "COBS_9A_3.md",
+   "span_id": "KB:COBS_9A_3:01_applies_to_scope",
+   "text": "MiFID/equivalent business and IBIPs involving investment advice or portfolio management to a **retail client**. S&S ISA + GIA holding MiFID financial instruments → this chapter is the **primary** authority for v1.",
+   "title": "Applies to (scope)"
+  },
+  {
+   "kb_file": "COBS_9A_3.md",
+   "span_id": "KB:COBS_9A_3:02_what_the_report_must_contain_do_paraphra",
+   "text": "- On giving investment advice to a retail client, the firm must, **before the transaction concludes**, give a suitability report in a durable medium that states the advice given and how it fits the client's preferences, objectives and other characteristics. [Note: art 25(6) MiFID]\n- MiFID Org Reg art 54(12): the report must outline the advice and why the recommendation is suitable — referencing investment term, the client's knowledge & experience, attitude to risk and **capacity for loss** — and flag whether the recommendation will likely need periodic review.\n- Distance-communication carve-out: report may follow immediately after conclusion if the client consented to delayed receipt **and** was offered the option to delay the transaction to receive it first.",
+   "title": "What the report must contain / do (paraphrase)"
+  },
+  {
+   "kb_file": "COBS_9A_2.md",
+   "span_id": "KB:COBS_9A_2:01_applies_to_scope",
+   "text": "Suitability assessment for MiFID/IBIP investment advice or portfolio management to retail clients. Governs the **client-information substrate** the report must evidence.",
+   "title": "Applies to (scope)"
+  },
+  {
+   "kb_file": "COBS_9A_2.md",
+   "span_id": "KB:COBS_9A_2:02_what_the_firm_must_do_paraphrase",
+   "text": "- Obtain the information needed on the client's (a) **knowledge & experience** in the relevant field, (b) **financial situation including ability to bear losses**, (c) **investment objectives including risk tolerance** — so as to recommend only what is suitable, in particular consistent with the client's risk tolerance and ability to bear losses. [Note: art 25(2) MiFID]\n- Financial-situation information must, where relevant, cover source and extent of regular income, assets (including liquid assets, investments, real property) and regular financial commitments.\n- Suitability must be assessed for **all decisions to trade — including hold and sell — not only buy** recommendations.\n- A bundled package recommended under COBS 6.1ZA.16R must be suitable **as a whole**.\n- For a legal person / group of natural persons: establish, record and implement a policy on who is assessed and how, including from whom the information is collected.",
+   "title": "What the firm must do (paraphrase)"
+  },
+  {
+   "kb_file": "COBS_4_2.md",
+   "span_id": "KB:COBS_4_2:01_applies_to_scope",
+   "text": "Communications and financial promotions to clients. Applies whether the client is retail or professional, taking account of the nature of the client.",
+   "title": "Applies to (scope)"
+  },
+  {
+   "kb_file": "COBS_4_2.md",
+   "span_id": "KB:COBS_4_2:02_what_the_firm_must_do_paraphrase",
+   "text": "- Ensure a communication or financial promotion is **fair, clear and not misleading**.",
+   "title": "What the firm must do (paraphrase)"
+  },
+  {
+   "kb_file": "PRIN_2A.md",
+   "span_id": "KB:PRIN_2A:01_applies_to_scope",
+   "text": "All retail-market business with retail customers. In force 31/07/2023 (open products) / 31/07/2024 (closed). For investments, applies to clients who are **not professional clients**. Replaces Principles 6 & 7 where it applies; higher/more exacting standard (PRIN 2A.1.17G).",
+   "title": "Applies to (scope)"
+  },
+  {
+   "kb_file": "PRIN_2A.md",
+   "span_id": "KB:PRIN_2A:02_what_the_firm_must_do_paraphrase",
+   "text": "- **Principle 12:** act to deliver good outcomes for retail customers.\n- **Cross-cutting rules (PRIN 2A.2):** (i) act in good faith (PRIN 2A.2.1R); (ii) avoid causing foreseeable harm (PRIN 2A.2.8R); (iii) enable and support retail customers to pursue their financial objectives (PRIN 2A.2.14)\n- **Four outcomes:** products & services governance (PRIN 2A.3); **price & value / fair value** (PRIN 2A.4); **consumer understanding** (PRIN 2A.5); consumer support (PRIN 2A.6).\n- Underpinned by an objective **reasonableness** test, proportionate to the firm's size and role.",
+   "title": "What the firm must do (paraphrase)"
+  },
+  {
+   "kb_file": "PRIN_2A.md",
+   "span_id": "KB:PRIN_2A:03_what_the_firm_must_avoid_paraphrase",
+   "text": "- **PRIN 2A.2.3:** Example of not acting in good faith: \nFailing to take account of client's interests while designing a product or presenting information to them",
+   "title": "What the firm must avoid (paraphrase)"
+  },
+  {
+   "kb_file": "FG22_5.md",
+   "span_id": "KB:FG22_5:01_applies_to_scope",
+   "text": "Guidance on how firms comply with Principle 12 + PRIN 2A. Non-binding; does not replace the Handbook (¶1.11). For investments, the Duty applies to **non-professional clients** per COBS (¶2.3).",
+   "title": "Applies to (scope)"
+  },
+  {
+   "kb_file": "FG22_5.md",
+   "span_id": "KB:FG22_5:02_what_it_requires_explains_paraphrase",
+   "text": "- Duty components: Consumer Principle + three cross-cutting rules + four outcomes (products & services; price & value; consumer understanding; consumer support) (¶1.3).\n- **Reasonableness** is an objective test — the standard of a prudent firm carrying on the same activity with understanding of the target market (¶1.4).\n- \"must / should / may\" convention defined (¶1.15).\n- Chapter map: Ch.7 = price & value; **Ch.8 = consumer understanding** (communications that equip customers to make effective, timely, informed decisions); Ch.9 = consumer support.",
+   "title": "What it requires / explains (paraphrase)"
+  },
+  {
+   "kb_file": "COBS_2_1.md",
+   "span_id": "KB:COBS_2_1:01_applies_to_scope",
+   "text": "Overarching conduct standard. Applies to designated investment business for retail clients; MiFID/etc. for any client; insurance distribution for any client. [Note: art 24(1) MiFID]",
+   "title": "Applies to (scope)"
+  },
+  {
+   "kb_file": "COBS_2_1.md",
+   "span_id": "KB:COBS_2_1:02_what_the_firm_must_do_paraphrase",
+   "text": "- Act honestly, fairly and professionally in line with the best interests of the client (the **client's best interests rule**).\n- This obligation is treated as **including** the duties under Principles 1 (integrity), 2 (skill, care & diligence) and 6 (customers' interests).",
+   "title": "What the firm must do (paraphrase)"
+  }
+ ],
+ "label_fictitious": true,
+ "recommended_wrapper": "ss_isa",
+ "transcript_spans": [
+  {
+   "end_s": 6.8,
+   "span_id": "TR:C029:0001",
+   "speaker": "ADVISER",
+   "start_s": 0.0,
+   "text": "Thanks for coming in. To start, what are you hoping to achieve with this money?"
+  },
+  {
+   "end_s": 13.9,
+   "span_id": "TR:C029:0002",
+   "speaker": "CLIENT",
+   "start_s": 7.6,
+   "text": "Mainly to save for children's university costs. I've got about £9,500 to put in."
+  },
+  {
+   "end_s": 18.7,
+   "span_id": "TR:C029:0003",
+   "speaker": "ADVISER",
+   "start_s": 14.7,
+   "text": "And what sort of timeframe are you working to?"
+  },
+  {
+   "end_s": 22.4,
+   "span_id": "TR:C029:0004",
+   "speaker": "CLIENT",
+   "start_s": 19.9,
+   "text": "five-ish years? could be ten"
+  },
+  {
+   "end_s": 29.2,
+   "span_id": "TR:C029:0005",
+   "speaker": "ADVISER",
+   "start_s": 23.4,
+   "text": "How would you feel if the value fell noticeably in a bad year?"
+  },
+  {
+   "end_s": 33.9,
+   "span_id": "TR:C029:0006",
+   "speaker": "CLIENT",
+   "start_s": 29.9,
+   "text": "I'm happy to take significant risk for higher returns."
+  },
+  {
+   "end_s": 41.9,
+   "span_id": "TR:C029:0007",
+   "speaker": "ADVISER",
+   "start_s": 35.1,
+   "text": "If you did lose some of this money, how would it affect your day-to-day finances?"
+  },
+  {
+   "end_s": 46.9,
+   "span_id": "TR:C029:0008",
+   "speaker": "CLIENT",
+   "start_s": 42.4,
+   "text": "My take is: stable income, adequate emergency fund, moderate surplus."
+  },
+  {
+   "end_s": 51.1,
+   "span_id": "TR:C029:0009",
+   "speaker": "ADVISER",
+   "start_s": 47.5,
+   "text": "Have you invested before, or mostly cash savings?"
+  },
+  {
+   "end_s": 55.8,
+   "span_id": "TR:C029:0010",
+   "speaker": "CLIENT",
+   "start_s": 52.2,
+   "text": "Mostly cash savings, funds, shares; I trade rarely."
+  },
+  {
+   "end_s": 64.0,
+   "span_id": "TR:C029:0011",
+   "speaker": "ADVISER",
+   "start_s": 56.8,
+   "text": "Income and outgoings — roughly £30,500 a year and £1,550 essential monthly costs, is that right?"
+  },
+  {
+   "end_s": 67.1,
+   "span_id": "TR:C029:0012",
+   "speaker": "CLIENT",
+   "start_s": 64.6,
+   "text": "Yes, that's about right."
+  },
+  {
+   "end_s": 74.1,
+   "span_id": "TR:C029:0013",
+   "speaker": "ADVISER",
+   "start_s": 67.8,
+   "text": "Thanks. I'll review this and set out my recommendation in writing before anything proceeds."
+  }
+ ]
+}

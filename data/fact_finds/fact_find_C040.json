@@ -1,0 +1,57 @@
+{
+ "case_id": "C040",
+ "label_fictitious": true,
+ "schema_version": "1.0",
+ "generator_seed": 2785392973,
+ "condition": "hard:absent_capacity",
+ "client": {
+  "name": "Fatima Haruki",
+  "age": 40,
+  "employment_status": "self_employed",
+  "dependants": 2,
+  "tax_band": "basic"
+ },
+ "objectives": {
+  "primary_objective": "save for children's university costs",
+  "target_amount_gbp": null,
+  "horizon_years": 3,
+  "horizon_text": "around 3 years",
+  "atr_score": 3,
+  "atr_descriptor": "balanced",
+  "risk_notes": null,
+  "missing_reason": null
+ },
+ "financial_situation": {
+  "gross_annual_income_gbp": 23000,
+  "income_source": "salary",
+  "monthly_essential_expenditure_gbp": 1250,
+  "monthly_discretionary_expenditure_gbp": 800,
+  "assets": {
+   "cash_gbp": 34000,
+   "investments_gbp": 0,
+   "property_gbp": null
+  },
+  "liabilities_gbp": 0,
+  "emergency_fund_months": 27.2,
+  "capacity_for_loss": null,
+  "capacity_for_loss_basis": null,
+  "isa_allowance_used_gbp": 6500,
+  "missing_reason": "not_asked"
+ },
+ "knowledge_experience": {
+  "products_held_before": [
+   "cash_savings",
+   "funds",
+   "shares"
+  ],
+  "trading_frequency": "sometimes",
+  "relevant_profession": false,
+  "ke_notes": null
+ },
+ "recommendation_context": {
+  "investable_amount_gbp": 20000,
+  "contribution_type": "both",
+  "recommended_wrapper": "ss_isa",
+  "adviser_rationale_notes": null
+ }
+}

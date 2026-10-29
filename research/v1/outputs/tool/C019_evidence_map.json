@@ -1,0 +1,520 @@
+[
+ {
+  "statement_id": "C019-S001",
+  "text": "We recommend that you invest the £17,000 you have available to invest on a regular monthly basis using a combination of a Stocks & Shares ISA and an unwrapped General Investment Account (GIA) – i.e.",
+  "spans": [],
+  "status": "unsupported"
+ },
+ {
+  "statement_id": "C019-S002",
+  "text": "“both” wrappers as agreed in the recommendation context [FF:C019:recommendation_context.recommended_wrapper]​[FF:C019:recommendation_context.investable_amount_gbp]​[FF:C019:recommendation_context.contribution_type]​[FF:C019:recommendation_context.adviser_rationale_notes].",
+  "spans": [
+   {
+    "span_id": "FF:C019:recommendation_context.recommended_wrapper",
+    "span_valid": true
+   },
+   {
+    "span_id": "FF:C019:recommendation_context.investable_amount_gbp",
+    "span_valid": true
+   },
+   {
+    "span_id": "FF:C019:recommendation_context.contribution_type",
+    "span_valid": true
+   },
+   {
+    "span_id": "FF:C019:recommendation_context.adviser_rationale_notes",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C019-S003",
+  "text": "- **Primary objective:** grow long‑term savings beyond cash [FF:C019:objectives.primary_objective]​[TR:C019:0002].",
+  "spans": [
+   {
+    "span_id": "FF:C019:objectives.primary_objective",
+    "span_valid": true
+   },
+   {
+    "span_id": "TR:C019:0002",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C019-S004",
+  "text": "- **Investment horizon:** around 10 years [FF:C019:objectives.horizon_text]​[FF:C019:objectives.horizon_years]​[TR:C019:0004].",
+  "spans": [
+   {
+    "span_id": "FF:C019:objectives.horizon_text",
+    "span_valid": true
+   },
+   {
+    "span_id": "FF:C019:objectives.horizon_years",
+    "span_valid": true
+   },
+   {
+    "span_id": "TR:C019:0004",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C019-S005",
+  "text": "- **Attitude to risk:** adventurous (ATR score 5) – you are happy to take significant risk for higher returns [FF:C019:objectives.atr_score]​[FF:C019:objectives.atr_descriptor]​[TR:C019:0006].",
+  "spans": [
+   {
+    "span_id": "FF:C019:objectives.atr_score",
+    "span_valid": true
+   },
+   {
+    "span_id": "FF:C019:objectives.atr_descriptor",
+    "span_valid": true
+   },
+   {
+    "span_id": "TR:C019:0006",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C019-S006",
+  "text": "- **Capacity for loss:** medium, based on a stable income, adequate emergency fund and a moderate surplus [FF:C019:financial_situation.capacity_for_loss]​[FF:C019:financial_situation.capacity_for_loss_basis]​[TR:C019:0008].",
+  "spans": [
+   {
+    "span_id": "FF:C019:financial_situation.capacity_for_loss",
+    "span_valid": true
+   },
+   {
+    "span_id": "FF:C019:financial_situation.capacity_for_loss_basis",
+    "span_valid": true
+   },
+   {
+    "span_id": "TR:C019:0008",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C019-S007",
+  "text": "- **Financial situation:**",
+  "spans": [],
+  "status": "unsupported"
+ },
+ {
+  "statement_id": "C019-S008",
+  "text": "- Gross annual income £30,400 [FF:C019:financial_situation.gross_annual_income_gbp]​[TR:C019:0011].",
+  "spans": [
+   {
+    "span_id": "FF:C019:financial_situation.gross_annual_income_gbp",
+    "span_valid": true
+   },
+   {
+    "span_id": "TR:C019:0011",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C019-S009",
+  "text": "- Monthly essential expenditure £1,050 [FF:C019:financial_situation.monthly_essential_expenditure_gbp]​[TR:C019:0011].",
+  "spans": [
+   {
+    "span_id": "FF:C019:financial_situation.monthly_essential_expenditure_gbp",
+    "span_valid": true
+   },
+   {
+    "span_id": "TR:C019:0011",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C019-S010",
+  "text": "- Monthly discretionary expenditure £1,450 [FF:C019:financial_situation.monthly_discretionary_expenditure_gbp].",
+  "spans": [
+   {
+    "span_id": "FF:C019:financial_situation.monthly_discretionary_expenditure_gbp",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C019-S011",
+  "text": "- Cash assets £38,000; other investments £57,500; liabilities £14,500 [FF:C019:financial_situation.assets.cash_gbp]​[FF:C019:financial_situation.assets.investments_gbp]​[FF:C019:financial_situation.liabilities_gbp].",
+  "spans": [
+   {
+    "span_id": "FF:C019:financial_situation.assets.cash_gbp",
+    "span_valid": true
+   },
+   {
+    "span_id": "FF:C019:financial_situation.assets.investments_gbp",
+    "span_valid": true
+   },
+   {
+    "span_id": "FF:C019:financial_situation.liabilities_gbp",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C019-S012",
+  "text": "- Emergency fund covers 36.2 months of expenses [FF:C019:financial_situation.emergency_fund_months].",
+  "spans": [
+   {
+    "span_id": "FF:C019:financial_situation.emergency_fund_months",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C019-S013",
+  "text": "- ISA allowance already used £13,500 [FF:C019:financial_situation.isa_allowance_used_gbp].",
+  "spans": [
+   {
+    "span_id": "FF:C019:financial_situation.isa_allowance_used_gbp",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C019-S014",
+  "text": "- **Knowledge & experience:** previously held cash savings only, never traded [FF:C019:knowledge_experience.products_held_before]​[FF:C019:knowledge_experience.trading_frequency]​[TR:C019:0010].",
+  "spans": [
+   {
+    "span_id": "FF:C019:knowledge_experience.products_held_before",
+    "span_valid": true
+   },
+   {
+    "span_id": "FF:C019:knowledge_experience.trading_frequency",
+    "span_valid": true
+   },
+   {
+    "span_id": "TR:C019:0010",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C019-S015",
+  "text": "The recommended ISA and GIA both hold the Aldercroft Balanced Growth Fund, a diversified multi‑asset fund (≈60 % global equities / 40 % bonds) that aims for capital growth over a period of 5 + years [FS:ISA:01]​[FS:GIA:01]​[FS:ISA:02]​[FS:GIA:02].",
+  "spans": [
+   {
+    "span_id": "FS:ISA:01",
+    "span_valid": true
+   },
+   {
+    "span_id": "FS:GIA:01",
+    "span_valid": true
+   },
+   {
+    "span_id": "FS:ISA:02",
+    "span_valid": true
+   },
+   {
+    "span_id": "FS:GIA:02",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C019-S016",
+  "text": "- **Match to objective and horizon:** The fund’s capital‑growth focus and 5‑year minimum holding period align with your 10‑year horizon and desire to grow savings beyond cash [FS:ISA:02]​[FS:GIA:02]​[FF:C019:objectives.horizon_years].",
+  "spans": [
+   {
+    "span_id": "FS:ISA:02",
+    "span_valid": true
+   },
+   {
+    "span_id": "FS:GIA:02",
+    "span_valid": true
+   },
+   {
+    "span_id": "FF:C019:objectives.horizon_years",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C019-S017",
+  "text": "- **Risk profile:** The fund’s risk indicator is 4 of 7, reflecting a moderate‑to‑high risk level that is consistent with your adventurous attitude to risk [FS:ISA:03]​[FS:GIA:03]​[FF:C019:objectives.atr_score].",
+  "spans": [
+   {
+    "span_id": "FS:ISA:03",
+    "span_valid": true
+   },
+   {
+    "span_id": "FS:GIA:03",
+    "span_valid": true
+   },
+   {
+    "span_id": "FF:C019:objectives.atr_score",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C019-S018",
+  "text": "- **Capacity for loss:** Your medium capacity for loss, supported by a large emergency fund and stable income, means you can tolerate the market volatility associated with this risk level [FF:C019:financial_situation.capacity_for_loss]​[FF:C019:financial_situation.capacity_for_loss_basis].",
+  "spans": [
+   {
+    "span_id": "FF:C019:financial_situation.capacity_for_loss",
+    "span_valid": true
+   },
+   {
+    "span_id": "FF:C019:financial_situation.capacity_for_loss_basis",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C019-S019",
+  "text": "- **Tax efficiency:** Using a Stocks & Shares ISA shelters income and gains from UK tax, while the GIA provides flexibility for any amount exceeding your remaining ISA allowance [FS:ISA:05]​[FS:GIA:05]​[FF:C019:financial_situation.isa_allowance_used_gbp].",
+  "spans": [
+   {
+    "span_id": "FS:ISA:05",
+    "span_valid": true
+   },
+   {
+    "span_id": "FS:GIA:05",
+    "span_valid": true
+   },
+   {
+    "span_id": "FF:C019:financial_situation.isa_allowance_used_gbp",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C019-S020",
+  "text": "- **Charges:** Both wrappers have the same total annual cost of 0.85 % (platform fee 0.25 % + fund OCF 0.60 %) which is transparent and competitive [FS:ISA:04]​[FS:GIA:04].",
+  "spans": [
+   {
+    "span_id": "FS:ISA:04",
+    "span_valid": true
+   },
+   {
+    "span_id": "FS:GIA:04",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C019-S021",
+  "text": "- **Access:** Daily dealing and withdrawals within 5 business days give you liquidity if needed [FS:ISA:06]​[FS:GIA:06].",
+  "spans": [
+   {
+    "span_id": "FS:ISA:06",
+    "span_valid": true
+   },
+   {
+    "span_id": "FS:GIA:06",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C019-S022",
+  "text": "- **Market risk:** The fund’s value can fall below the amount invested, especially in a bad year [FS:ISA:03]​[FS:GIA:03].",
+  "spans": [
+   {
+    "span_id": "FS:ISA:03",
+    "span_valid": true
+   },
+   {
+    "span_id": "FS:GIA:03",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C019-S023",
+  "text": "- **Currency risk:** Non‑GBP holdings expose you to exchange‑rate movements [FS:ISA:03]​[FS:GIA:03].",
+  "spans": [
+   {
+    "span_id": "FS:ISA:03",
+    "span_valid": true
+   },
+   {
+    "span_id": "FS:GIA:03",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C019-S024",
+  "text": "- **No capital guarantee:** There is no guarantee that you will get back your original capital [FS:ISA:03]​[FS:GIA:03].",
+  "spans": [
+   {
+    "span_id": "FS:ISA:03",
+    "span_valid": true
+   },
+   {
+    "span_id": "FS:GIA:03",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C019-S025",
+  "text": "- **Minimum holding period:** A recommended minimum of 5 years means early withdrawal could lock in losses [FS:ISA:03]​[FS:GIA:03].",
+  "spans": [
+   {
+    "span_id": "FS:ISA:03",
+    "span_valid": true
+   },
+   {
+    "span_id": "FS:GIA:03",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C019-S026",
+  "text": "- **ISA withdrawal limits:** Withdrawn ISA amounts cannot be replaced within the same tax year without using your allowance [FS:ISA:06].",
+  "spans": [
+   {
+    "span_id": "FS:ISA:06",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C019-S027",
+  "text": "- **Tax on GIA:** Dividends and gains in the GIA are subject to income tax and CGT above the relevant allowances [FS:GIA:05].",
+  "spans": [
+   {
+    "span_id": "FS:GIA:05",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C019-S028",
+  "text": "- **Platform fee:** 0.25 % per annum [FS:ISA:04]​[FS:GIA:04].",
+  "spans": [
+   {
+    "span_id": "FS:ISA:04",
+    "span_valid": true
+   },
+   {
+    "span_id": "FS:GIA:04",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C019-S029",
+  "text": "- **Fund ongoing charge (OCF):** 0.60 % per annum [FS:ISA:04]​[FS:GIA:04].",
+  "spans": [
+   {
+    "span_id": "FS:ISA:04",
+    "span_valid": true
+   },
+   {
+    "span_id": "FS:GIA:04",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C019-S030",
+  "text": "- **Total illustrative annual cost:** 0.85 % of the investment value [FS:ISA:04]​[FS:GIA:04].",
+  "spans": [
+   {
+    "span_id": "FS:ISA:04",
+    "span_valid": true
+   },
+   {
+    "span_id": "FS:GIA:04",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C019-S031",
+  "text": "- **No entry, exit or performance fees** for either wrapper [FS:ISA:04]​[FS:GIA:04].",
+  "spans": [
+   {
+    "span_id": "FS:ISA:04",
+    "span_valid": true
+   },
+   {
+    "span_id": "FS:GIA:04",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C019-S032",
+  "text": "- **ISA tax advantage** means income and gains are free from UK tax [FS:ISA:05]; the GIA does not have this shelter [FS:GIA:05].",
+  "spans": [
+   {
+    "span_id": "FS:ISA:05",
+    "span_valid": true
+   },
+   {
+    "span_id": "FS:GIA:05",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C019-S033",
+  "text": "Given the 10‑year investment horizon, the medium capacity for loss and the market‑linked nature of the fund, a periodic review (e.g., annually) is likely to be needed to ensure the investment remains appropriate as your circumstances or market conditions change [KB:COBS_9A_3:02_what_the_report_must_contain_do_paraphra].",
+  "spans": [
+   {
+    "span_id": "KB:COBS_9A_3:02_what_the_report_must_contain_do_paraphra",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C019-S034",
+  "text": "This suitability report is provided to you **before any transaction is concluded** and is delivered in a durable medium, as required by MiFID regulations [KB:COBS_9A_3:02_what_the_report_must_contain_do_paraphra].",
+  "spans": [
+   {
+    "span_id": "KB:COBS_9A_3:02_what_the_report_must_contain_do_paraphra",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C019-S035",
+  "text": "- None identified.",
+  "spans": [],
+  "status": "unsupported"
+ }
+]

@@ -1,0 +1,203 @@
+{
+ "case_id": "C017",
+ "label_fictitious": true,
+ "schema_version": "1.0",
+ "condition": "clean",
+ "facts": [
+  {
+   "fact_key": "client_identity",
+   "status": "supported",
+   "spans": [
+    "FF:C017:client.name",
+    "FF:C017:client.age"
+   ],
+   "value": {
+    "name": "Yuki Haruki",
+    "age": 64
+   },
+   "conflict": null,
+   "detail": null
+  },
+  {
+   "fact_key": "investable_amount",
+   "status": "supported",
+   "spans": [
+    "FF:C017:recommendation_context.investable_amount_gbp",
+    "TR:C017:0002"
+   ],
+   "value": 26000,
+   "conflict": null,
+   "detail": null
+  },
+  {
+   "fact_key": "contribution_type",
+   "status": "supported",
+   "spans": [
+    "FF:C017:recommendation_context.contribution_type"
+   ],
+   "value": "lump_sum",
+   "conflict": null,
+   "detail": null
+  },
+  {
+   "fact_key": "recommended_wrapper",
+   "status": "supported",
+   "spans": [
+    "FF:C017:recommendation_context.recommended_wrapper"
+   ],
+   "value": "ss_isa",
+   "conflict": null,
+   "detail": null
+  },
+  {
+   "fact_key": "primary_objective",
+   "status": "supported",
+   "spans": [
+    "FF:C017:objectives.primary_objective",
+    "TR:C017:0002"
+   ],
+   "value": "invest an inheritance for growth",
+   "conflict": null,
+   "detail": null
+  },
+  {
+   "fact_key": "investment_horizon",
+   "status": "supported",
+   "spans": [
+    "FF:C017:objectives.horizon_years",
+    "TR:C017:0004"
+   ],
+   "value": 7,
+   "conflict": null,
+   "detail": null
+  },
+  {
+   "fact_key": "risk_tolerance_atr",
+   "status": "supported",
+   "spans": [
+    "FF:C017:objectives.atr_score",
+    "TR:C017:0006"
+   ],
+   "value": {
+    "score": 5,
+    "descriptor": "adventurous"
+   },
+   "conflict": null,
+   "detail": null
+  },
+  {
+   "fact_key": "capacity_for_loss",
+   "status": "supported",
+   "spans": [
+    "FF:C017:financial_situation.capacity_for_loss",
+    "TR:C017:0008"
+   ],
+   "value": "high",
+   "conflict": null,
+   "detail": null
+  },
+  {
+   "fact_key": "income",
+   "status": "supported",
+   "spans": [
+    "FF:C017:financial_situation.gross_annual_income_gbp",
+    "TR:C017:0011",
+    "TR:C017:0012"
+   ],
+   "value": 115900,
+   "conflict": null,
+   "detail": null
+  },
+  {
+   "fact_key": "essential_expenditure",
+   "status": "supported",
+   "spans": [
+    "FF:C017:financial_situation.monthly_essential_expenditure_gbp",
+    "TR:C017:0011",
+    "TR:C017:0012"
+   ],
+   "value": 1350,
+   "conflict": null,
+   "detail": null
+  },
+  {
+   "fact_key": "emergency_fund",
+   "status": "supported",
+   "spans": [
+    "FF:C017:financial_situation.emergency_fund_months"
+   ],
+   "value": 27.8,
+   "conflict": null,
+   "detail": null
+  },
+  {
+   "fact_key": "liabilities",
+   "status": "supported",
+   "spans": [
+    "FF:C017:financial_situation.liabilities_gbp"
+   ],
+   "value": 0,
+   "conflict": null,
+   "detail": null
+  },
+  {
+   "fact_key": "knowledge_experience",
+   "status": "supported",
+   "spans": [
+    "FF:C017:knowledge_experience.products_held_before",
+    "FF:C017:knowledge_experience.trading_frequency",
+    "TR:C017:0010"
+   ],
+   "value": {
+    "products": [
+     "cash_savings",
+     "funds",
+     "shares"
+    ],
+    "frequency": "rarely"
+   },
+   "conflict": null,
+   "detail": null
+  },
+  {
+   "fact_key": "isa_allowance_used",
+   "status": "supported",
+   "spans": [
+    "FF:C017:financial_situation.isa_allowance_used_gbp"
+   ],
+   "value": 10000,
+   "conflict": null,
+   "detail": null
+  },
+  {
+   "fact_key": "product_key_risks",
+   "status": "supported",
+   "spans": [
+    "FS:ISA:03"
+   ],
+   "value": "ISA key risks per factsheet \u00a703",
+   "conflict": null,
+   "detail": null
+  },
+  {
+   "fact_key": "product_charges",
+   "status": "supported",
+   "spans": [
+    "FS:ISA:04"
+   ],
+   "value": "ISA charges per factsheet \u00a704",
+   "conflict": null,
+   "detail": null
+  },
+  {
+   "fact_key": "product_tax_treatment",
+   "status": "supported",
+   "spans": [
+    "FS:ISA:05"
+   ],
+   "value": "ISA tax treatment per factsheet \u00a705",
+   "conflict": null,
+   "detail": null
+  }
+ ]
+}

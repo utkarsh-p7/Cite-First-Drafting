@@ -1,0 +1,398 @@
+[
+ {
+  "statement_id": "C005-S001",
+  "text": "We recommend that you invest a lump‑sum of £20,500 in a Stocks & Shares ISA (SS ISA) using the Aldercroft Balanced Growth Fund, held within the recommended wrapper “ss_isa” [FF:C005:recommendation_context.recommended_wrapper][FF:C005:recommendation_context.investable_amount_gbp][FF:C005:recommendation_context.contribution_type]​.",
+  "spans": [
+   {
+    "span_id": "FF:C005:recommendation_context.recommended_wrapper",
+    "span_valid": true
+   },
+   {
+    "span_id": "FF:C005:recommendation_context.investable_amount_gbp",
+    "span_valid": true
+   },
+   {
+    "span_id": "FF:C005:recommendation_context.contribution_type",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C005-S002",
+  "text": "- **Primary objective:** Grow long‑term savings beyond cash [FF:C005:objectives.primary_objective]​.",
+  "spans": [
+   {
+    "span_id": "FF:C005:objectives.primary_objective",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C005-S003",
+  "text": "- **Target amount:** £132,000 [FF:C005:objectives.target_amount_gbp]​.",
+  "spans": [
+   {
+    "span_id": "FF:C005:objectives.target_amount_gbp",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C005-S004",
+  "text": "- **Investment horizon:** Around 10 years [FF:C005:objectives.horizon_text][FF:C005:objectives.horizon_years]​.",
+  "spans": [
+   {
+    "span_id": "FF:C005:objectives.horizon_text",
+    "span_valid": true
+   },
+   {
+    "span_id": "FF:C005:objectives.horizon_years",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C005-S005",
+  "text": "- **Attitude to risk:** Moderately adventurous (ATR score 4) [FF:C005:objectives.atr_score][FF:C005:objectives.atr_descriptor]​.",
+  "spans": [
+   {
+    "span_id": "FF:C005:objectives.atr_score",
+    "span_valid": true
+   },
+   {
+    "span_id": "FF:C005:objectives.atr_descriptor",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C005-S006",
+  "text": "- **Capacity for loss:** Medium, based on a stable income, adequate emergency fund and a moderate surplus [FF:C005:financial_situation.capacity_for_loss][FF:C005:financial_situation.capacity_for_loss_basis]​.",
+  "spans": [
+   {
+    "span_id": "FF:C005:financial_situation.capacity_for_loss",
+    "span_valid": true
+   },
+   {
+    "span_id": "FF:C005:financial_situation.capacity_for_loss_basis",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C005-S007",
+  "text": "- **Age:** 29 [FF:C005:client.age]​.",
+  "spans": [
+   {
+    "span_id": "FF:C005:client.age",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C005-S008",
+  "text": "- **Employment:** Employed, salary [FF:C005:client.employment_status][FF:C005:financial_situation.income_source]​.",
+  "spans": [
+   {
+    "span_id": "FF:C005:client.employment_status",
+    "span_valid": true
+   },
+   {
+    "span_id": "FF:C005:financial_situation.income_source",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C005-S009",
+  "text": "- **Annual gross income:** £22,700 [FF:C005:financial_situation.gross_annual_income_gbp]​.",
+  "spans": [
+   {
+    "span_id": "FF:C005:financial_situation.gross_annual_income_gbp",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C005-S010",
+  "text": "- **Monthly essential expenditure:** £1,300 [FF:C005:financial_situation.monthly_essential_expenditure_gbp]​; **monthly discretionary expenditure:** £500 [FF:C005:financial_situation.monthly_discretionary_expenditure_gbp]​.",
+  "spans": [
+   {
+    "span_id": "FF:C005:financial_situation.monthly_essential_expenditure_gbp",
+    "span_valid": true
+   },
+   {
+    "span_id": "FF:C005:financial_situation.monthly_discretionary_expenditure_gbp",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C005-S011",
+  "text": "- **Cash assets:** £33,500 [FF:C005:financial_situation.assets.cash_gbp]​; no existing investments [FF:C005:financial_situation.assets.investments_gbp]​.",
+  "spans": [
+   {
+    "span_id": "FF:C005:financial_situation.assets.cash_gbp",
+    "span_valid": true
+   },
+   {
+    "span_id": "FF:C005:financial_situation.assets.investments_gbp",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C005-S012",
+  "text": "- **Emergency fund:** Covers 25.8 months of outgoings [FF:C005:financial_situation.emergency_fund_months]​, indicating strong liquidity.",
+  "spans": [
+   {
+    "span_id": "FF:C005:financial_situation.emergency_fund_months",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C005-S013",
+  "text": "- **Dependants:** 3 [FF:C005:client.dependants]​; tax band: basic [FF:C005:client.tax_band]​.",
+  "spans": [
+   {
+    "span_id": "FF:C005:client.dependants",
+    "span_valid": true
+   },
+   {
+    "span_id": "FF:C005:client.tax_band",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C005-S014",
+  "text": "- **Knowledge & experience:** Previously held only cash savings; trades rarely [FF:C005:knowledge_experience.products_held_before][FF:C005:knowledge_experience.trading_frequency]​.",
+  "spans": [
+   {
+    "span_id": "FF:C005:knowledge_experience.products_held_before",
+    "span_valid": true
+   },
+   {
+    "span_id": "FF:C005:knowledge_experience.trading_frequency",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C005-S015",
+  "text": "The SS ISA holds a diversified multi‑asset fund (≈60 % global equities, 40 % bonds) that aims for capital growth over a period of 5 years or more [FS:ISA:01][FS:ISA:02]​.",
+  "spans": [
+   {
+    "span_id": "FS:ISA:01",
+    "span_valid": true
+   },
+   {
+    "span_id": "FS:ISA:02",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C005-S016",
+  "text": "This matches your 10‑year horizon and growth objective [FF:C005:objectives.horizon_years][FF:C005:objectives.primary_objective]​.",
+  "spans": [
+   {
+    "span_id": "FF:C005:objectives.horizon_years",
+    "span_valid": true
+   },
+   {
+    "span_id": "FF:C005:objectives.primary_objective",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C005-S017",
+  "text": "The fund’s risk indicator is 4 of 7, aligning with your “moderately adventurous” risk attitude [FS:ISA:03][FF:C005:objectives.atr_score]​, while your medium capacity for loss and solid emergency fund give you the ability to absorb market fluctuations [FF:C005:financial_situation.capacity_for_loss]​.",
+  "spans": [
+   {
+    "span_id": "FS:ISA:03",
+    "span_valid": true
+   },
+   {
+    "span_id": "FF:C005:objectives.atr_score",
+    "span_valid": true
+   },
+   {
+    "span_id": "FF:C005:financial_situation.capacity_for_loss",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C005-S018",
+  "text": "Tax efficiency is enhanced by the ISA wrapper: any income or capital gains are free from UK income tax and CGT [FS:ISA:05]​, which is beneficial given your basic‑rate tax position [FF:C005:client.tax_band]​.",
+  "spans": [
+   {
+    "span_id": "FS:ISA:05",
+    "span_valid": true
+   },
+   {
+    "span_id": "FF:C005:client.tax_band",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C005-S019",
+  "text": "The minimum investment requirement of £1,000 lump sum is well below your available £20,500, allowing you to invest the full amount immediately [FS:ISA:07]​.",
+  "spans": [
+   {
+    "span_id": "FS:ISA:07",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C005-S020",
+  "text": "- **Market risk:** The fund’s value can fall below the amount invested, especially in a bad market year [FS:ISA:03]​.",
+  "spans": [
+   {
+    "span_id": "FS:ISA:03",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C005-S021",
+  "text": "- **Currency risk:** Non‑GBP holdings expose you to exchange‑rate movements [FS:ISA:03]​.",
+  "spans": [
+   {
+    "span_id": "FS:ISA:03",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C005-S022",
+  "text": "- **No capital guarantee:** There is no guarantee that you will receive back your original capital [FS:ISA:03]​.",
+  "spans": [
+   {
+    "span_id": "FS:ISA:03",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C005-S023",
+  "text": "- **Holding period:** A minimum of 5 years is recommended to smooth out volatility [FS:ISA:03]​, which may limit liquidity if you need the money sooner.",
+  "spans": [
+   {
+    "span_id": "FS:ISA:03",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C005-S024",
+  "text": "- **Withdrawal limits:** Once withdrawn, the amount cannot be replaced within the same tax year without using your ISA allowance [FS:ISA:06]​.",
+  "spans": [
+   {
+    "span_id": "FS:ISA:06",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C005-S025",
+  "text": "- Platform fee: 0.25 % per annum [FS:ISA:04]​.",
+  "spans": [
+   {
+    "span_id": "FS:ISA:04",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C005-S026",
+  "text": "- Fund ongoing charge (OCF): 0.60 % per annum [FS:ISA:04]​.",
+  "spans": [
+   {
+    "span_id": "FS:ISA:04",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C005-S027",
+  "text": "- No entry, exit or performance fees [FS:ISA:04]​.",
+  "spans": [
+   {
+    "span_id": "FS:ISA:04",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C005-S028",
+  "text": "- **Illustrative total annual cost:** 0.85 % [FS:ISA:04]​.",
+  "spans": [
+   {
+    "span_id": "FS:ISA:04",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C005-S029",
+  "text": "Given the 10‑year investment horizon and the medium capacity for loss, periodic review is likely to be needed to ensure the investment remains appropriate as your circumstances or market conditions change [KB:COBS_9A_3:02_what_the_report_must_contain_do_paraphra]​.",
+  "spans": [
+   {
+    "span_id": "KB:COBS_9A_3:02_what_the_report_must_contain_do_paraphra",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C005-S030",
+  "text": "This suitability report is provided to you before any transaction is concluded, in a durable medium, and sets out the advice we are giving, why it is suitable, the associated risks, costs and the need for future review [KB:COBS_9A_3:02_what_the_report_must_contain_do_paraphra]​.",
+  "spans": [
+   {
+    "span_id": "KB:COBS_9A_3:02_what_the_report_must_contain_do_paraphra",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C005-S031",
+  "text": "None identified.",
+  "spans": [],
+  "status": "unsupported"
+ }
+]

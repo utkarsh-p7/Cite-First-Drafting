@@ -1,0 +1,351 @@
+[
+ {
+  "statement_id": "C007-S001",
+  "text": "We recommend that you invest the £33,500 you have available into a Stocks & Shares ISA (SS ISA) wrapper, using regular monthly contributions.",
+  "spans": [],
+  "status": "unsupported"
+ },
+ {
+  "statement_id": "C007-S002",
+  "text": "The chosen investment will be the Aldercroft Balanced Growth Fund held within the SS ISA [FF:C007:recommendation_context.recommended_wrapper][FF:C007:recommendation_context.investable_amount_gbp][FF:C007:recommendation_context.contribution_type]​.",
+  "spans": [
+   {
+    "span_id": "FF:C007:recommendation_context.recommended_wrapper",
+    "span_valid": true
+   },
+   {
+    "span_id": "FF:C007:recommendation_context.investable_amount_gbp",
+    "span_valid": true
+   },
+   {
+    "span_id": "FF:C007:recommendation_context.contribution_type",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C007-S003",
+  "text": "- **Primary objective:** Build a house deposit [FF:C007:objectives.primary_objective]​.",
+  "spans": [
+   {
+    "span_id": "FF:C007:objectives.primary_objective",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C007-S004",
+  "text": "- **Time horizon:** Around 20 years [FF:C007:objectives.horizon_text][FF:C007:objectives.horizon_years]​.",
+  "spans": [
+   {
+    "span_id": "FF:C007:objectives.horizon_text",
+    "span_valid": true
+   },
+   {
+    "span_id": "FF:C007:objectives.horizon_years",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C007-S005",
+  "text": "- **Age and employment:** 58 years old and currently employed [FF:C007:client.age][FF:C007:client.employment_status]​.",
+  "spans": [
+   {
+    "span_id": "FF:C007:client.age",
+    "span_valid": true
+   },
+   {
+    "span_id": "FF:C007:client.employment_status",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C007-S006",
+  "text": "- **Financial situation:** Gross annual income £37,400; essential monthly outgoings £2,100 and discretionary outgoings £1,350 [FF:C007:financial_situation.gross_annual_income_gbp][FF:C007:financial_situation.monthly_essential_expenditure_gbp][FF:C007:financial_situation.monthly_discretionary_expenditure_gbp]​.",
+  "spans": [
+   {
+    "span_id": "FF:C007:financial_situation.gross_annual_income_gbp",
+    "span_valid": true
+   },
+   {
+    "span_id": "FF:C007:financial_situation.monthly_essential_expenditure_gbp",
+    "span_valid": true
+   },
+   {
+    "span_id": "FF:C007:financial_situation.monthly_discretionary_expenditure_gbp",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C007-S007",
+  "text": "Cash savings of £5,000 and no other investments or liabilities [FF:C007:financial_situation.assets.cash_gbp][FF:C007:financial_situation.assets.investments_gbp][FF:C007:financial_situation.liabilities_gbp]​.",
+  "spans": [
+   {
+    "span_id": "FF:C007:financial_situation.assets.cash_gbp",
+    "span_valid": true
+   },
+   {
+    "span_id": "FF:C007:financial_situation.assets.investments_gbp",
+    "span_valid": true
+   },
+   {
+    "span_id": "FF:C007:financial_situation.liabilities_gbp",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C007-S008",
+  "text": "Emergency fund covers about 2.4 months of expenses [FF:C007:financial_situation.emergency_fund_months]​.",
+  "spans": [
+   {
+    "span_id": "FF:C007:financial_situation.emergency_fund_months",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C007-S009",
+  "text": "- **Capacity for loss:** Low, because of limited surplus income and a small emergency buffer [FF:C007:financial_situation.capacity_for_loss][FF:C007:financial_situation.capacity_for_loss_basis]​.",
+  "spans": [
+   {
+    "span_id": "FF:C007:financial_situation.capacity_for_loss",
+    "span_valid": true
+   },
+   {
+    "span_id": "FF:C007:financial_situation.capacity_for_loss_basis",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C007-S010",
+  "text": "- **Attitude to risk:** Moderately cautious (ATR score 2) [FF:C007:objectives.atr_score][FF:C007:objectives.atr_descriptor]​.",
+  "spans": [
+   {
+    "span_id": "FF:C007:objectives.atr_score",
+    "span_valid": true
+   },
+   {
+    "span_id": "FF:C007:objectives.atr_descriptor",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C007-S011",
+  "text": "- **Knowledge & experience:** Previously held cash savings and a SS ISA; trades occasionally [FF:C007:knowledge_experience.products_held_before][FF:C007:knowledge_experience.trading_frequency]​.",
+  "spans": [
+   {
+    "span_id": "FF:C007:knowledge_experience.products_held_before",
+    "span_valid": true
+   },
+   {
+    "span_id": "FF:C007:knowledge_experience.trading_frequency",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C007-S012",
+  "text": "The Aldercroft Balanced Growth Fund is a diversified multi‑asset portfolio (approximately 60 % global equities and 40 % bonds) that aims for capital growth over a period of five years or more [FS:ISA:01][FS:ISA:02]​.",
+  "spans": [
+   {
+    "span_id": "FS:ISA:01",
+    "span_valid": true
+   },
+   {
+    "span_id": "FS:ISA:02",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C007-S013",
+  "text": "This matches your long‑term horizon of about 20 years and your moderately cautious risk attitude, while still offering growth potential to help you accumulate a house deposit [FF:C007:objectives.horizon_years][FF:C007:objectives.atr_descriptor]​.",
+  "spans": [
+   {
+    "span_id": "FF:C007:objectives.horizon_years",
+    "span_valid": true
+   },
+   {
+    "span_id": "FF:C007:objectives.atr_descriptor",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C007-S014",
+  "text": "The SS ISA wrapper provides tax‑free treatment for income and capital gains, which is beneficial given your basic‑rate tax position [FS:ISA:05]​, and you still have part of your annual ISA allowance available (£6,000 already used) [FF:C007:financial_situation.isa_allowance_used_gbp]​.",
+  "spans": [
+   {
+    "span_id": "FS:ISA:05",
+    "span_valid": true
+   },
+   {
+    "span_id": "FF:C007:financial_situation.isa_allowance_used_gbp",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C007-S015",
+  "text": "The total annual cost of 0.85 % (platform fee 0.25 % + fund OCF 0.60 %) is transparent and low‑cost, supporting good value for money [FS:ISA:04]​.",
+  "spans": [
+   {
+    "span_id": "FS:ISA:04",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C007-S016",
+  "text": "- **Market risk:** The fund’s value can fall below the amount invested, especially in a bad market year [FS:ISA:03]​.",
+  "spans": [
+   {
+    "span_id": "FS:ISA:03",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C007-S017",
+  "text": "- **Currency risk:** Non‑GBP holdings expose the investment to currency fluctuations [FS:ISA:03]​.",
+  "spans": [
+   {
+    "span_id": "FS:ISA:03",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C007-S018",
+  "text": "- **No capital guarantee:** There is no guarantee that you will receive back the original capital [FS:ISA:03]​.",
+  "spans": [
+   {
+    "span_id": "FS:ISA:03",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C007-S019",
+  "text": "- **Liquidity constraints:** Withdrawals are processed within five business days, and once withdrawn you cannot replace the amount in the same tax year without using your ISA allowance [FS:ISA:06]​.",
+  "spans": [
+   {
+    "span_id": "FS:ISA:06",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C007-S020",
+  "text": "- **Minimum holding period:** The product is intended to be held for at least five years to align with its investment objective [FS:ISA:03]​.",
+  "spans": [
+   {
+    "span_id": "FS:ISA:03",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C007-S021",
+  "text": "- Platform fee: 0.25 % per annum [FS:ISA:04]​.",
+  "spans": [
+   {
+    "span_id": "FS:ISA:04",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C007-S022",
+  "text": "- Fund ongoing charge (OCF): 0.60 % per annum [FS:ISA:04]​.",
+  "spans": [
+   {
+    "span_id": "FS:ISA:04",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C007-S023",
+  "text": "- No entry, exit or performance fees [FS:ISA:04]​.",
+  "spans": [
+   {
+    "span_id": "FS:ISA:04",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C007-S024",
+  "text": "- Illustrative total annual cost: 0.85 % [FS:ISA:04]​.",
+  "spans": [
+   {
+    "span_id": "FS:ISA:04",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C007-S025",
+  "text": "Given the long investment horizon and the moderate‑cautious risk profile, a periodic review (e.g., every 2‑3 years or if your personal circumstances change) is likely to be needed to ensure the investment remains appropriate [KB:COBS_9A_3:02_what_the_report_must_contain_do_paraphra]​.",
+  "spans": [
+   {
+    "span_id": "KB:COBS_9A_3:02_what_the_report_must_contain_do_paraphra",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C007-S026",
+  "text": "This suitability report is provided to you before any transaction is concluded, in a durable medium, and sets out the advice we are giving, why it is suitable, the associated risks, costs and the need for future review [KB:COBS_9A_3:02_what_the_report_must_contain_do_paraphra]​.",
+  "spans": [
+   {
+    "span_id": "KB:COBS_9A_3:02_what_the_report_must_contain_do_paraphra",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C007-S027",
+  "text": "- Target house‑deposit amount (the amount you aim to accumulate) [INSUFFICIENT EVIDENCE: target amount].",
+  "spans": [],
+  "status": "insufficient"
+ },
+ {
+  "statement_id": "C007-S028",
+  "text": "- Any specific risk‑tolerance notes beyond the ATR score [INSUFFICIENT EVIDENCE: risk notes].",
+  "spans": [],
+  "status": "insufficient"
+ }
+]

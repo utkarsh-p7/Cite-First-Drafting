@@ -1,0 +1,273 @@
+[
+ {
+  "statement_id": "C012-S001",
+  "text": "We recommend that you invest £19,000 in a Stocks & Shares ISA (SS ISA) using the Aldercroft Balanced Growth Fund, held within a tax‑efficient ISA wrapper.",
+  "spans": [],
+  "status": "unsupported"
+ },
+ {
+  "statement_id": "C012-S002",
+  "text": "This recommendation is made in line with your stated objective to save for your children's university costs over a roughly 10‑year horizon and reflects your adventurous attitude to risk and high capacity for loss [FF:C012:recommendation_context.recommended_wrapper][FF:C012:objectives.atr_descriptor][FF:C012:financial_situation.capacity_for_loss].",
+  "spans": [
+   {
+    "span_id": "FF:C012:recommendation_context.recommended_wrapper",
+    "span_valid": true
+   },
+   {
+    "span_id": "FF:C012:objectives.atr_descriptor",
+    "span_valid": true
+   },
+   {
+    "span_id": "FF:C012:financial_situation.capacity_for_loss",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C012-S003",
+  "text": "- **Primary objective:** Save for your children's university costs, with a target timeframe of about 10 years [FF:C012:objectives.primary_objective][FF:C012:objectives.horizon_text].",
+  "spans": [
+   {
+    "span_id": "FF:C012:objectives.primary_objective",
+    "span_valid": true
+   },
+   {
+    "span_id": "FF:C012:objectives.horizon_text",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C012-S004",
+  "text": "- **Age and employment:** You are 46 years old and currently retired [FF:C012:client.age][FF:C012:client.employment_status].",
+  "spans": [
+   {
+    "span_id": "FF:C012:client.age",
+    "span_valid": true
+   },
+   {
+    "span_id": "FF:C012:client.employment_status",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C012-S005",
+  "text": "- **Financial situation:** Gross annual income of £83,200, essential monthly expenditure of £3,300 and discretionary spending of £850, giving you a comfortable disposable income.",
+  "spans": [],
+  "status": "unsupported"
+ },
+ {
+  "statement_id": "C012-S006",
+  "text": "You hold £33,000 in cash and have no existing investments, property, or liabilities, and you maintain an emergency fund covering 10 months of expenses [FF:C012:financial_situation.gross_annual_income_gbp][FF:C012:financial_situation.monthly_essential_expenditure_gbp][FF:C012:financial_situation.monthly_discretionary_expenditure_gbp][FF:C012:financial_situation.assets.cash_gbp][FF:C012:financial_situation.liabilities_gbp][FF:C012:financial_situation.emergency_fund_months].",
+  "spans": [
+   {
+    "span_id": "FF:C012:financial_situation.gross_annual_income_gbp",
+    "span_valid": true
+   },
+   {
+    "span_id": "FF:C012:financial_situation.monthly_essential_expenditure_gbp",
+    "span_valid": true
+   },
+   {
+    "span_id": "FF:C012:financial_situation.monthly_discretionary_expenditure_gbp",
+    "span_valid": true
+   },
+   {
+    "span_id": "FF:C012:financial_situation.assets.cash_gbp",
+    "span_valid": true
+   },
+   {
+    "span_id": "FF:C012:financial_situation.liabilities_gbp",
+    "span_valid": true
+   },
+   {
+    "span_id": "FF:C012:financial_situation.emergency_fund_months",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C012-S007",
+  "text": "- **Risk profile:** You have an adventurous attitude to risk (ATR score 5) and a high capacity for loss, based on substantial liquid assets and high disposable income [FF:C012:objectives.atr_score][FF:C012:financial_situation.capacity_for_loss][FF:C012:financial_situation.capacity_for_loss_basis].",
+  "spans": [
+   {
+    "span_id": "FF:C012:objectives.atr_score",
+    "span_valid": true
+   },
+   {
+    "span_id": "FF:C012:financial_situation.capacity_for_loss",
+    "span_valid": true
+   },
+   {
+    "span_id": "FF:C012:financial_situation.capacity_for_loss_basis",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C012-S008",
+  "text": "- **Knowledge & experience:** You have not held any investment products before and do not trade regularly [FF:C012:knowledge_experience.products_held_before][FF:C012:knowledge_experience.trading_frequency].",
+  "spans": [
+   {
+    "span_id": "FF:C012:knowledge_experience.products_held_before",
+    "span_valid": true
+   },
+   {
+    "span_id": "FF:C012:knowledge_experience.trading_frequency",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C012-S009",
+  "text": "The Stocks & Shares ISA holds a diversified multi‑asset fund (approximately 60 % global equities and 40 % bonds) that aims for capital growth over a period of five years or more, matching your 10‑year horizon and desire for higher returns [FS:ISA:01][FS:ISA:02].",
+  "spans": [
+   {
+    "span_id": "FS:ISA:01",
+    "span_valid": true
+   },
+   {
+    "span_id": "FS:ISA:02",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C012-S010",
+  "text": "The fund’s risk indicator of 4 out of 7 aligns with your adventurous risk tolerance, while the ISA wrapper provides tax‑free growth, which is beneficial given your higher‑rate tax band [FS:ISA:03][FS:ISA:05].",
+  "spans": [
+   {
+    "span_id": "FS:ISA:03",
+    "span_valid": true
+   },
+   {
+    "span_id": "FS:ISA:05",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C012-S011",
+  "text": "Your high capacity for loss and substantial liquid assets mean you can absorb potential market fluctuations without jeopardising your day‑to‑day finances [FF:C012:financial_situation.capacity_for_loss][TR:C012:0008].",
+  "spans": [
+   {
+    "span_id": "FF:C012:financial_situation.capacity_for_loss",
+    "span_valid": true
+   },
+   {
+    "span_id": "TR:C012:0008",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C012-S012",
+  "text": "- **Market risk:** The value of the investment can fall below the amount you invest, especially in a bad market year [FS:ISA:03].",
+  "spans": [
+   {
+    "span_id": "FS:ISA:03",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C012-S013",
+  "text": "- **Currency risk:** Non‑GBP holdings expose you to fluctuations in foreign exchange rates [FS:ISA:03].",
+  "spans": [
+   {
+    "span_id": "FS:ISA:03",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C012-S014",
+  "text": "- **No capital guarantee:** There is no guarantee that you will receive back the original capital [FS:ISA:03].",
+  "spans": [
+   {
+    "span_id": "FS:ISA:03",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C012-S015",
+  "text": "- **Liquidity constraints:** Withdrawals are processed within five business days, and once withdrawn you cannot replace the amount in the same tax year without using your ISA allowance [FS:ISA:06].",
+  "spans": [
+   {
+    "span_id": "FS:ISA:06",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C012-S016",
+  "text": "- **Minimum holding period:** The fund recommends a minimum holding period of five years, which may limit flexibility if your circumstances change [FS:ISA:03].",
+  "spans": [
+   {
+    "span_id": "FS:ISA:03",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C012-S017",
+  "text": "The total annual cost of the investment is 0.85 % (platform fee 0.25 % plus fund OCF 0.60 %).",
+  "spans": [],
+  "status": "unsupported"
+ },
+ {
+  "statement_id": "C012-S018",
+  "text": "There are no entry, exit, or performance fees [FS:ISA:04].",
+  "spans": [
+   {
+    "span_id": "FS:ISA:04",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C012-S019",
+  "text": "Given the 10‑year investment horizon and the potential for market changes, a periodic review of the investment is likely to be needed to ensure it remains appropriate for your objectives and risk tolerance [KB:COBS_9A_3:02_what_the_report_must_contain_do_paraphra].",
+  "spans": [
+   {
+    "span_id": "KB:COBS_9A_3:02_what_the_report_must_contain_do_paraphra",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C012-S020",
+  "text": "This suitability report is provided to you before any transaction is concluded, in a durable medium, and sets out the advice we are giving, why it is suitable, the associated risks, costs and the need for ongoing review, as required by regulatory rules for retail clients [KB:COBS_9A_3:02_what_the_report_must_contain_do_paraphra].",
+  "spans": [
+   {
+    "span_id": "KB:COBS_9A_3:02_what_the_report_must_contain_do_paraphra",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C012-S021",
+  "text": "None identified.",
+  "spans": [],
+  "status": "unsupported"
+ }
+]

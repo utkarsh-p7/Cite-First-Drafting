@@ -1,0 +1,367 @@
+[
+ {
+  "statement_id": "C016-S001",
+  "text": "We recommend that you invest the £18,500 you have available as a lump‑sum into a General Investment Account (GIA) holding the Aldercroft Balanced Growth Fund.",
+  "spans": [],
+  "status": "unsupported"
+ },
+ {
+  "statement_id": "C016-S002",
+  "text": "This recommendation is made in line with your stated objective to grow long‑term savings beyond cash and your three‑year investment horizon [FF:C016:recommendation_context.recommended_wrapper][FF:C016:objectives.horizon_years][FF:C016:objectives.primary_objective].",
+  "spans": [
+   {
+    "span_id": "FF:C016:recommendation_context.recommended_wrapper",
+    "span_valid": true
+   },
+   {
+    "span_id": "FF:C016:objectives.horizon_years",
+    "span_valid": true
+   },
+   {
+    "span_id": "FF:C016:objectives.primary_objective",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C016-S003",
+  "text": "- **Objective:** Grow long‑term savings beyond cash [FF:C016:objectives.primary_objective].",
+  "spans": [
+   {
+    "span_id": "FF:C016:objectives.primary_objective",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C016-S004",
+  "text": "- **Time horizon:** Around three years [FF:C016:objectives.horizon_text][TR:C016:0004].",
+  "spans": [
+   {
+    "span_id": "FF:C016:objectives.horizon_text",
+    "span_valid": true
+   },
+   {
+    "span_id": "TR:C016:0004",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C016-S005",
+  "text": "- **Attitude to risk:** You describe yourself as “happy to take significant risk for higher returns” [TR:C016:0006] and have an adventurous risk‑tolerance score of 5 [FF:C016:objectives.atr_score].",
+  "spans": [
+   {
+    "span_id": "TR:C016:0006",
+    "span_valid": true
+   },
+   {
+    "span_id": "FF:C016:objectives.atr_score",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C016-S006",
+  "text": "- **Capacity for loss:** You have a medium capacity for loss, based on a stable income, an adequate emergency fund (22 months of expenses) and a moderate surplus [FF:C016:financial_situation.capacity_for_loss][FF:C016:financial_situation.capacity_for_loss_basis].",
+  "spans": [
+   {
+    "span_id": "FF:C016:financial_situation.capacity_for_loss",
+    "span_valid": true
+   },
+   {
+    "span_id": "FF:C016:financial_situation.capacity_for_loss_basis",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C016-S007",
+  "text": "- **Financial situation:**",
+  "spans": [],
+  "status": "unsupported"
+ },
+ {
+  "statement_id": "C016-S008",
+  "text": "- Gross annual income £30,000 (salary) [FF:C016:financial_situation.gross_annual_income_gbp][TR:C016:0011].",
+  "spans": [
+   {
+    "span_id": "FF:C016:financial_situation.gross_annual_income_gbp",
+    "span_valid": true
+   },
+   {
+    "span_id": "TR:C016:0011",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C016-S009",
+  "text": "- Monthly essential expenditure £1,750 and discretionary expenditure £400 [FF:C016:financial_situation.monthly_essential_expenditure_gbp][FF:C016:financial_situation.monthly_discretionary_expenditure_gbp].",
+  "spans": [
+   {
+    "span_id": "FF:C016:financial_situation.monthly_essential_expenditure_gbp",
+    "span_valid": true
+   },
+   {
+    "span_id": "FF:C016:financial_situation.monthly_discretionary_expenditure_gbp",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C016-S010",
+  "text": "- Cash savings £38,500; no existing investments [FF:C016:financial_situation.assets.cash_gbp][FF:C016:financial_situation.assets.investments_gbp].",
+  "spans": [
+   {
+    "span_id": "FF:C016:financial_situation.assets.cash_gbp",
+    "span_valid": true
+   },
+   {
+    "span_id": "FF:C016:financial_situation.assets.investments_gbp",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C016-S011",
+  "text": "- No liabilities [FF:C016:financial_situation.liabilities_gbp].",
+  "spans": [
+   {
+    "span_id": "FF:C016:financial_situation.liabilities_gbp",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C016-S012",
+  "text": "- **Investable amount:** £18,500 available for a lump‑sum investment [FF:C016:recommendation_context.investable_amount_gbp][TR:C016:0002].",
+  "spans": [
+   {
+    "span_id": "FF:C016:recommendation_context.investable_amount_gbp",
+    "span_valid": true
+   },
+   {
+    "span_id": "TR:C016:0002",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C016-S013",
+  "text": "- **Knowledge & experience:** Primarily cash savings; you trade “sometimes” [FF:C016:knowledge_experience.products_held_before][FF:C016:knowledge_experience.trading_frequency][TR:C016:0010].",
+  "spans": [
+   {
+    "span_id": "FF:C016:knowledge_experience.products_held_before",
+    "span_valid": true
+   },
+   {
+    "span_id": "FF:C016:knowledge_experience.trading_frequency",
+    "span_valid": true
+   },
+   {
+    "span_id": "TR:C016:0010",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C016-S014",
+  "text": "The Aldercroft Balanced Growth Fund is a multi‑asset fund (approximately 60 % global equities, 40 % bonds) aiming for capital growth over a five‑year plus horizon [FS:GIA:01][FS:GIA:02].",
+  "spans": [
+   {
+    "span_id": "FS:GIA:01",
+    "span_valid": true
+   },
+   {
+    "span_id": "FS:GIA:02",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C016-S015",
+  "text": "Although the fund’s recommended minimum holding period is five years, its risk indicator of 4 / 7 and the diversified nature of the portfolio align with your adventurous risk attitude while still offering a degree of diversification to match your medium capacity for loss [FS:GIA:03][FF:C016:objectives.atr_score][FF:C016:financial_situation.capacity_for_loss].",
+  "spans": [
+   {
+    "span_id": "FS:GIA:03",
+    "span_valid": true
+   },
+   {
+    "span_id": "FF:C016:objectives.atr_score",
+    "span_valid": true
+   },
+   {
+    "span_id": "FF:C016:financial_situation.capacity_for_loss",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C016-S016",
+  "text": "The GIA wrapper is unwrapped, meaning it is not tax‑sheltered, but dividends and gains will be taxed in the usual way, which is appropriate given your basic tax band and the amount you plan to invest [FS:GIA:05][FF:C016:client.tax_band].",
+  "spans": [
+   {
+    "span_id": "FS:GIA:05",
+    "span_valid": true
+   },
+   {
+    "span_id": "FF:C016:client.tax_band",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C016-S017",
+  "text": "The platform fee (0.25 % p.a.) and fund OCF (0.60 % p.a.) combine to an illustrative total charge of 0.85 % p.a., which is reasonable for a diversified multi‑asset fund and consistent with delivering good value for retail customers [FS:GIA:04][KB:PRIN_2A:02_what_the_firm_must_do_paraphrase].",
+  "spans": [
+   {
+    "span_id": "FS:GIA:04",
+    "span_valid": true
+   },
+   {
+    "span_id": "KB:PRIN_2A:02_what_the_firm_must_do_paraphrase",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C016-S018",
+  "text": "- **Market risk:** The fund’s value can fall below the amount invested, and there is no capital guarantee [FS:GIA:03].",
+  "spans": [
+   {
+    "span_id": "FS:GIA:03",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C016-S019",
+  "text": "- **Currency risk:** Exposure to non‑GBP holdings may cause additional volatility [FS:GIA:03].",
+  "spans": [
+   {
+    "span_id": "FS:GIA:03",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C016-S020",
+  "text": "- **Time‑horizon mismatch:** The fund is designed for a five‑year plus holding period, whereas your stated horizon is around three years, meaning you may need to accept short‑term fluctuations [FS:GIA:02][FS:GIA:03].",
+  "spans": [
+   {
+    "span_id": "FS:GIA:02",
+    "span_valid": true
+   },
+   {
+    "span_id": "FS:GIA:03",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C016-S021",
+  "text": "- **Tax treatment:** As the GIA is not tax‑sheltered, any dividends and capital gains above the personal allowances will be subject to tax [FS:GIA:05].",
+  "spans": [
+   {
+    "span_id": "FS:GIA:05",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C016-S022",
+  "text": "- Platform fee: 0.25 % per annum [FS:GIA:04].",
+  "spans": [
+   {
+    "span_id": "FS:GIA:04",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C016-S023",
+  "text": "- Fund ongoing charge (OCF): 0.60 % per annum [FS:GIA:04].",
+  "spans": [
+   {
+    "span_id": "FS:GIA:04",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C016-S024",
+  "text": "- No entry, exit or performance fees [FS:GIA:04].",
+  "spans": [
+   {
+    "span_id": "FS:GIA:04",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C016-S025",
+  "text": "- Total illustrative annual cost: 0.85 % [FS:GIA:04].",
+  "spans": [
+   {
+    "span_id": "FS:GIA:04",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C016-S026",
+  "text": "Given the three‑year horizon and the fund’s recommended minimum holding period of five years, a periodic review is likely to be needed to ensure the investment remains appropriate as market conditions and your personal circumstances evolve [FS:GIA:03][KB:COBS_9A_3:02_what_the_report_must_contain_do_paraphra].",
+  "spans": [
+   {
+    "span_id": "FS:GIA:03",
+    "span_valid": true
+   },
+   {
+    "span_id": "KB:COBS_9A_3:02_what_the_report_must_contain_do_paraphra",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C016-S027",
+  "text": "This suitability report is provided to you before any transaction is concluded, in a durable medium, and sets out the advice we are giving, why it is suitable, the associated risks, costs and the need for future review [KB:COBS_9A_3:02_what_the_report_must_contain_do_paraphra].",
+  "spans": [
+   {
+    "span_id": "KB:COBS_9A_3:02_what_the_report_must_contain_do_paraphra",
+    "span_valid": true
+   }
+  ],
+  "status": "supported"
+ },
+ {
+  "statement_id": "C016-S028",
+  "text": "None identified.",
+  "spans": [],
+  "status": "unsupported"
+ }
+]

@@ -1,0 +1,56 @@
+{
+ "case_id": "C011",
+ "label_fictitious": true,
+ "schema_version": "1.0",
+ "generator_seed": 2300365080,
+ "condition": "clean",
+ "client": {
+  "name": "Tom Lindqvist",
+  "age": 38,
+  "employment_status": "employed",
+  "dependants": 2,
+  "tax_band": "none"
+ },
+ "objectives": {
+  "primary_objective": "save for children's university costs",
+  "target_amount_gbp": 64000,
+  "horizon_years": 15,
+  "horizon_text": "around 15 years",
+  "atr_score": 1,
+  "atr_descriptor": "cautious",
+  "risk_notes": null,
+  "missing_reason": null
+ },
+ "financial_situation": {
+  "gross_annual_income_gbp": 7600,
+  "income_source": "part-time earnings",
+  "monthly_essential_expenditure_gbp": 900,
+  "monthly_discretionary_expenditure_gbp": 1500,
+  "assets": {
+   "cash_gbp": 46500,
+   "investments_gbp": 25000,
+   "property_gbp": null
+  },
+  "liabilities_gbp": 4500,
+  "emergency_fund_months": 51.7,
+  "capacity_for_loss": "medium",
+  "capacity_for_loss_basis": "stable income, adequate emergency fund, moderate surplus",
+  "isa_allowance_used_gbp": 0,
+  "missing_reason": null
+ },
+ "knowledge_experience": {
+  "products_held_before": [
+   "cash_savings",
+   "pension"
+  ],
+  "trading_frequency": "rarely",
+  "relevant_profession": false,
+  "ke_notes": null
+ },
+ "recommendation_context": {
+  "investable_amount_gbp": 32500,
+  "contribution_type": "regular_monthly",
+  "recommended_wrapper": "both",
+  "adviser_rationale_notes": null
+ }
+}

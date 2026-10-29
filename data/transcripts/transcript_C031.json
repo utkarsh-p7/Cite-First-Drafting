@@ -1,0 +1,99 @@
+{
+ "case_id": "C031",
+ "label_fictitious": true,
+ "schema_version": "1.0",
+ "meeting_date_fictitious": "2026-06-22",
+ "segments": [
+  {
+   "utt_id": "TR:C031:0001",
+   "speaker": "ADVISER",
+   "start_s": 0.0,
+   "end_s": 6.8,
+   "text": "Thanks for coming in. To start, what are you hoping to achieve with this money?"
+  },
+  {
+   "utt_id": "TR:C031:0002",
+   "speaker": "CLIENT",
+   "start_s": 7.4,
+   "end_s": 13.7,
+   "text": "Mainly to supplement retirement savings outside pension. I've got about \u00a330,000 to put in."
+  },
+  {
+   "utt_id": "TR:C031:0003",
+   "speaker": "ADVISER",
+   "start_s": 14.0,
+   "end_s": 18.1,
+   "text": "And what sort of timeframe are you working to?"
+  },
+  {
+   "utt_id": "TR:C031:0004",
+   "speaker": "CLIENT",
+   "start_s": 18.6,
+   "end_s": 21.1,
+   "text": "I'd say around 3 years."
+  },
+  {
+   "utt_id": "TR:C031:0005",
+   "speaker": "ADVISER",
+   "start_s": 21.6,
+   "end_s": 27.5,
+   "text": "How would you feel if the value fell noticeably in a bad year?"
+  },
+  {
+   "utt_id": "TR:C031:0006",
+   "speaker": "CLIENT",
+   "start_s": 28.6,
+   "end_s": 32.2,
+   "text": "I really don't want to see it drop."
+  },
+  {
+   "utt_id": "TR:C031:0007",
+   "speaker": "ADVISER",
+   "start_s": 32.9,
+   "end_s": 39.7,
+   "text": "If you did lose some of this money, how would it affect your day-to-day finances?"
+  },
+  {
+   "utt_id": "TR:C031:0008",
+   "speaker": "CLIENT",
+   "start_s": 40.5,
+   "end_s": 46.4,
+   "text": "My take is: substantial liquid assets and high disposable income relative to commitments."
+  },
+  {
+   "utt_id": "TR:C031:0009",
+   "speaker": "ADVISER",
+   "start_s": 47.4,
+   "end_s": 51.0,
+   "text": "Have you invested before, or mostly cash savings?"
+  },
+  {
+   "utt_id": "TR:C031:0010",
+   "speaker": "CLIENT",
+   "start_s": 51.5,
+   "end_s": 54.0,
+   "text": "Mostly none; I trade rarely."
+  },
+  {
+   "utt_id": "TR:C031:0011",
+   "speaker": "ADVISER",
+   "start_s": 54.5,
+   "end_s": 61.7,
+   "text": "Income and outgoings \u2014 roughly \u00a387,500 a year and \u00a31,800 essential monthly costs, is that right?"
+  },
+  {
+   "utt_id": "TR:C031:0012",
+   "speaker": "CLIENT",
+   "start_s": 62.6,
+   "end_s": 65.1,
+   "text": "Yes, that's about right."
+  },
+  {
+   "utt_id": "TR:C031:0013",
+   "speaker": "ADVISER",
+   "start_s": 66.1,
+   "end_s": 72.4,
+   "text": "Thanks. I'll review this and set out my recommendation in writing before anything proceeds."
+  }
+ ]
+}

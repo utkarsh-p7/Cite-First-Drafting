@@ -1,0 +1,57 @@
+{
+ "case_id": "C029",
+ "label_fictitious": true,
+ "schema_version": "1.0",
+ "generator_seed": 33761907,
+ "condition": "hard:ambiguous_horizon",
+ "client": {
+  "name": "Arjun Whitfield",
+  "age": 38,
+  "employment_status": "employed",
+  "dependants": 3,
+  "tax_band": "basic"
+ },
+ "objectives": {
+  "primary_objective": "save for children's university costs",
+  "target_amount_gbp": null,
+  "horizon_years": null,
+  "horizon_text": "five-ish years? could be ten",
+  "atr_score": 5,
+  "atr_descriptor": "adventurous",
+  "risk_notes": null,
+  "missing_reason": null
+ },
+ "financial_situation": {
+  "gross_annual_income_gbp": 30500,
+  "income_source": "salary",
+  "monthly_essential_expenditure_gbp": 1550,
+  "monthly_discretionary_expenditure_gbp": 550,
+  "assets": {
+   "cash_gbp": 20500,
+   "investments_gbp": 74000,
+   "property_gbp": null
+  },
+  "liabilities_gbp": 15500,
+  "emergency_fund_months": 13.2,
+  "capacity_for_loss": "medium",
+  "capacity_for_loss_basis": "stable income, adequate emergency fund, moderate surplus",
+  "isa_allowance_used_gbp": 4500,
+  "missing_reason": null
+ },
+ "knowledge_experience": {
+  "products_held_before": [
+   "cash_savings",
+   "funds",
+   "shares"
+  ],
+  "trading_frequency": "rarely",
+  "relevant_profession": false,
+  "ke_notes": null
+ },
+ "recommendation_context": {
+  "investable_amount_gbp": 9500,
+  "contribution_type": "both",
+  "recommended_wrapper": "ss_isa",
+  "adviser_rationale_notes": null
+ }
+}
