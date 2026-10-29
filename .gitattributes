@@ -1,3 +1,5 @@
 research/** -text
 data/** -text
 tests/fixtures/** -text
+src/cite_first_drafting/evaluation/harness.py -text
+src/cite_first_drafting/drafting/template.py -text

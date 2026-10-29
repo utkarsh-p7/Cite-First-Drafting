@@ -1,4 +1,5 @@
-"""The ported assembler must reproduce every frozen v1 context byte for byte."""
+"""The ported assembler must reproduce every frozen v1 context byte for byte after newline normalisation
+(frozen files were written on Windows with CRLF)."""
 
 import pytest
 
@@ -18,9 +19,11 @@ def test_contexts_match_frozen(assembler, frozen, case_ids):
     mismatches = []
     for cid in case_ids:
         ctx = assembler.assemble(cid)
-        want_ctx = (frozen / "contexts" / f"{cid}_context.json").read_text(encoding="utf-8")
-        want_prompt = (frozen / "contexts" / f"{cid}_prompt.txt").read_text(encoding="utf-8")
-        if context_json(ctx) != want_ctx or render_prompt(ctx) + "\n" != want_prompt:
+        want_ctx = (frozen / "contexts" / f"{cid}_context.json").read_bytes().replace(b"\r\n", b"\n")
+        want_prompt = (frozen / "contexts" / f"{cid}_prompt.txt").read_bytes().replace(b"\r\n", b"\n")
+        got_ctx = context_json(ctx).encode("utf-8")
+        got_prompt = (render_prompt(ctx) + "\n").encode("utf-8")
+        if got_ctx != want_ctx or got_prompt != want_prompt:
             mismatches.append(cid)
     assert not mismatches, f"contexts differ from frozen v1 for: {mismatches}"
 
