@@ -1,0 +1,50 @@
+[build-system]
+requires = ["hatchling>=1.25"]
+build-backend = "hatchling.build"
+
+[project]
+name = "cite-first-drafting"
+version = "0.1.0"
+description = "Evidence-linked AI drafting for regulated financial reports. Every sentence carries its source."
+authors = [{ name = "Utkarsh Pandey" }]
+requires-python = ">=3.11"
+keywords = ["generative-ai", "evidence-linking", "compliance", "fca", "suitability-report", "fastapi"]
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "License :: OSI Approved :: MIT License",
+  "Topic :: Office/Business :: Financial",
+]
+# The core package (context assembly, parser, structural check, evaluation harness,
+# replay provider) is pure standard library. Extras add live providers and the API.
+dependencies = []
+
+[project.optional-dependencies]
+providers = ["openai>=1.40", "anthropic>=0.40"]
+api = ["fastapi>=0.115", "uvicorn[standard]>=0.30", "pydantic>=2.8", "pydantic-settings>=2.4"]
+dev = ["pytest>=8.2", "pytest-cov>=5.0", "ruff>=0.6", "httpx>=0.27"]
+
+[project.urls]
+Repository = "https://github.com/utkarsh-p7/Cite-First-Drafting"
+"Dissertation artefact (frozen v1)" = "https://github.com/utkarsh-p7/MSc-Dissertation-Tailored-evidence-linking-tool-for-compliance-based-report-drafting"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/cite_first_drafting"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"
+
+[tool.ruff]
+line-length = 120
+target-version = "py311"
+src = ["src", "tests"]
+extend-exclude = ["research", "data", "tests/fixtures"]
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B", "UP", "W"]
+# harness.py is the dissertation's frozen scoring engine, kept verbatim for traceability.
+per-file-ignores = { "src/cite_first_drafting/evaluation/harness.py" = ["E501", "B", "UP", "I", "E741", "F541"] }
+
+[tool.ruff.format]
+# Verbatim copies of the dissertation artefact are never reformatted (traceability).
+exclude = ["src/cite_first_drafting/evaluation/harness.py", "src/cite_first_drafting/drafting/template.py"]
